@@ -18,7 +18,7 @@
       "gym",
       "garage"
     ],
-    "description": "Estudio centrico recien reformado en Centro, Alicante. 201 m2, 1 hab."
+    "description": "Espectacular penthouse de 201 m² en planta 8 ubicado en el corazón de Alicante, ideal para quien busca vivir en el centro con todas las comodidades. El inmueble cuenta con 1 dormitorio y 1 baño, distribuidos de forma funcional y con abundante entrada de luz natural gracias a sus amplios ventanales. Destaca por su magnífica terraza privada, perfecta para disfrutar de las vistas y el buen clima de la Costa Blanca, además de acceso a zona de gym y plaza de garaje incluida. Un hogar de lujo en una ubicación privilegiada, a pasos de comercios, restaurantes y servicios."
   },
   {
     "id": "p_002",
@@ -35,7 +35,7 @@
     "built_year": null,
     "floor": 6,
     "features": [],
-    "description": "Atico en alquiler con terraza en Pedregalejo, Malaga. 257 m2, 5 hab."
+    "description": "Espacioso flat de 257 m² en la sexta planta de un edificio en Pedregalejo, con 5 habitaciones y 3 baños que ofrece una distribución práctica y luminosa gracias a sus múltiples orientaciones. La vivienda se encuentra en muy buen estado de conservación, ideal para familias o como opción de inversión en esta codiciada zona beachfront de Málaga, con fácil acceso a playas, comercios y servicios. La amplitud de las estancias y la altura proporcionan claridad y ventilación natural durante todo el día. Ubicación privilegiada en Pedregalejo, uno de los barrios más demandados de la costa malagueña, combinando la tranquilidad residencial con la proximidad a todos los amenities necesarios."
   },
   {
     "id": "p_003",
@@ -55,7 +55,7 @@
       "gym",
       "garden"
     ],
-    "description": "Atico con terraza panoramica en Campanar, Valencia. 266 m2, 1 hab."
+    "description": "Espaciosa vivienda de 266 m² en planta baja ubicada en la tranquila zona de Campanar, perfecta para quien busca amplitud y luminosidad. Cuenta con 1 dormitorio y 2 baños completamente equipados, con distribución práctica y abundante entrada de luz natural. La propiedad incluye un jardín privado ideal para disfrutar del buen clima valenciano y acceso a un gimnasio comunitario. En muy buen estado de conservación, esta casa ofrece todo lo necesario para una vida cómoda en uno de los barrios con mejor calidad de vida de Valencia."
   },
   {
     "id": "p_004",
@@ -74,7 +74,7 @@
     "features": [
       "garage"
     ],
-    "description": "Atico con terraza panoramica en Cabo Huertas, Alicante. 197 m2, 5 hab."
+    "description": "Amplio piso de 197 m² ubicado en la cuarta planta de un edificio en Cabo Huertas, con 5 habitaciones y 3 baños que ofrece excelentes posibilidades de distribución. La vivienda goza de buena iluminación natural gracias a sus orientaciones y se encuentra en buen estado general, lista para entrar a vivir. Incluye garaje en la finca y se sitúa en una zona tranquila y bien comunicada, ideal para familias que buscan espacio y comodidad cerca del mar."
   },
   {
     "id": "p_005",
@@ -93,7 +93,7 @@
     "features": [
       "garden"
     ],
-    "description": "Piso de obra nueva en Chamartin, Madrid. 140 m2, 2 hab."
+    "description": "Luminoso piso de 140 m² en segunda planta ubicado en la deseable zona de Chamartín, que combina funcionalidad y confort. Distribuido en 2 amplias habitaciones y 2 baños completos, ofrece espacios bien definidos con excelente entrada de luz natural. Destaca por su jardín privado, ideal para disfrutar del exterior sin salir de casa, y se encuentra en una zona bien comunicada con todos los servicios a tu alcance. El inmueble presenta un buen estado de conservación y está listo para entrar a vivir."
   },
   {
     "id": "p_006",
@@ -110,7 +110,7 @@
     "built_year": null,
     "floor": 0,
     "features": [],
-    "description": "Apartamento exterior soleado en La Malagueta, Malaga. 265 m2, 2 hab."
+    "description": "Espaciosa casa de 265 m² en La Malagueta con 2 dormitorios y 2 baños que se distribuye de forma muy funcional en planta baja. La vivienda goza de excelente iluminación natural gracias a sus amplios ventanales, que además permiten disfrutar de las vistas al barrio más emblemático de Málaga. Ubicada en una zona muy solicitada, cercana a paseos marítimos, restaurantes y servicios, esta propiedad combina comodidad y accesibilidad. Perfecta tanto para vivienda habitual como para inversión, se presenta en buen estado de conservación y lista para entrar a vivir."
   },
   {
     "id": "p_007",
@@ -133,7 +133,7 @@
       "garage",
       "air_conditioning"
     ],
-    "description": "Chalet independiente con jardin en Deusto, Bilbao. 276 m2, 4 hab."
+    "description": "Magnífico chalet de reciente construcción en Deusto con 276 m² de superficie distribuidos en 4 amplias habitaciones y 4 baños completos, garantizando comodidad para toda la familia. La vivienda disfruta de excelente iluminación natural gracias a sus grandes ventanales y se encuentra en perfecto estado de conservación, con acabados de calidad y aire acondicionado en toda la casa. Cuenta con garaje privado, jardín exterior, ascensor y trastero, además de todas las comodidades que ofrece una construcción moderna del 2017. Ubicación privilegiada en una de las zonas más demandadas de Bilbao, perfecta para quienes buscan tranquilidad sin renunciar a la proximidad a los servicios y comercios de la ciudad."
   },
   {
     "id": "p_008",
@@ -150,7 +150,7 @@
     "built_year": null,
     "floor": 6,
     "features": [],
-    "description": "Chalet independiente con jardin en San Blas, Alicante. 270 m2, 1 hab."
+    "description": "Espectacular penthouse de 270 m² en la sexta planta de San Blas con amplios espacios y mucha luminosidad natural gracias a sus generosas aberturas. Distribuido en un dormitorio y un baño, este inmueble destaca por su diáfano salón-comedor ideal para disfrutar de las vistas y aprovechar la claridad durante todo el día. Ubicado en una zona bien comunicada de Alicante, el penthouse ofrece la tranquilidad que buscas con la comodidad de estar en un barrio dinámico y con todos los servicios a mano. Un hogar versátil perfecto tanto para inversión como para vivienda habitual, en el que podrás disfrutar de amplitud y luminosidad en cada rincón."
   },
   {
     "id": "p_009",
@@ -173,7 +173,7 @@
       "terrace",
       "elevator"
     ],
-    "description": "Atico en alquiler con terraza en Teatinos, Malaga. 88 m2, 4 hab."
+    "description": "Acogedor estudio de 88 m² situado en la séptima planta de un edificio con ascensor y servicio de conserjería en la zona de Teatinos, Málaga. Distribuido en 4 habitaciones y 1 baño, destaca por su amplia terraza privada y excelente luminosidad natural gracias a su orientación. Totalmente amueblado y equipado, el inmueble se beneficia de las zonas comunes con jardín, proporcionando un entorno tranquilo y bien cuidado ideal para una estancia cómoda. Perfecto para estudiantes, profesionales o familias pequeñas que busquen una vivienda funcional y bien ubicada."
   },
   {
     "id": "p_010",
@@ -195,7 +195,7 @@
       "furnished",
       "air_conditioning"
     ],
-    "description": "Casa adosada familiar en Salamanca, Madrid. 179 m2, 3 hab."
+    "description": "Magnífico chalet de 179 m² en la exclusiva zona de Salamanca, perfectamente distribuido en 3 amplias habitaciones y 3 baños completos que garantizan comodidad para toda la familia. La vivienda destaca por sus abundantes entradas de luz natural, aire acondicionado en toda la propiedad y acabados de calidad, disponible completamente amueblado para mudanza inmediata. Disfruta de piscina privada y ascensor, elementos que convierten este inmueble en una opción excepcional en una de las áreas más cotizadas de Madrid, con excelente acceso a servicios, comercios y transportes."
   },
   {
     "id": "p_011",
@@ -217,7 +217,7 @@
       "storage",
       "air_conditioning"
     ],
-    "description": "Vivienda centrica con garaje en El Palo, Malaga. 274 m2, 1 hab."
+    "description": "Luminoso flat de 274 m² ubicado en la segunda planta de una moderna urbanización en El Palo, con amplios ventanales que inundan el espacio de luz natural. Cuenta con un generoso salón-comedor, dormitorio y un completo baño, perfectamente distribuidos para aprovechar al máximo la superficie disponible. La vivienda dispone de aire acondicionado, plaza de garaje privada, trastero y acceso a las instalaciones comunitarias incluido gimnasio. Zona muy demandada, próxima a la playa y con excelente acceso a servicios y comercios del barrio."
   },
   {
     "id": "p_012",
@@ -237,7 +237,7 @@
       "air_conditioning",
       "furnished"
     ],
-    "description": "Piso con vistas al parque en San Blas, Alicante. 232 m2, 2 hab."
+    "description": "Vivienda unifamiliar de 232 m² en San Blas, Alicante, con una distribución funcional de 2 dormitorios y 1 baño que aprovecha bien los espacios. La casa, construida en 1998 y con una muy buena orientación, ofrece una luminosidad natural envidiable gracias a sus amplias ventanas. Se encuentra en perfecto estado de conservación, completamente amueblada y equipada con aire acondicionado para un mayor confort. La zona de San Blas es tranquila y residencial, con excelentes conexiones y acceso a servicios, comercios y espacios verdes cercanos."
   },
   {
     "id": "p_013",
@@ -254,7 +254,7 @@
     "built_year": null,
     "floor": 3,
     "features": [],
-    "description": "Piso amueblado en alquiler en Chueca, Madrid. 51 m2, 2 hab."
+    "description": "Acogedor piso de 51 m² en plena zona de Chueca, perfecto para quien busca vivir en el corazón de Madrid. Distribuido en 2 habitaciones y 1 baño, este flat ubicado en 3ª planta se caracteriza por sus espacios bien aprovechados y una luminosidad agradable gracias a sus ventanas orientadas a la calle. La zona es ideal para disfrutar de la vida urbana, con bares, restaurantes y tiendas a tu alcance, además de excelente conexión de transporte público. Un inmueble con mucho potencial, listo para vivir sin obras."
   },
   {
     "id": "p_014",
@@ -273,7 +273,7 @@
     "features": [
       "gym"
     ],
-    "description": "Piso con vistas al parque en Tetuan, Madrid. 188 m2, 4 hab."
+    "description": "Espacioso chalet de 188 m² ubicado en la zona de Tetuán, Madrid, con 4 dormitorios y 2 baños distribuidos de manera funcional y luminosa. La vivienda, construida en 2006, se encuentra en excelente estado de conservación y cuenta con amplias zonas comunes que aprovechan muy bien la luz natural. Destaca por la inclusión de un gimnasio privado, ideal para mantener una vida saludable sin salir de casa. La zona ofrece buena conectividad, comercios cercanos y acceso rápido a principales vías de la ciudad."
   },
   {
     "id": "p_015",
@@ -294,7 +294,7 @@
       "garage",
       "gym"
     ],
-    "description": "Atico con terraza panoramica en Les Corts, Barcelona. 155 m2, 3 hab."
+    "description": "Espectacular penthouse de 155 m² en Les Corts con 3 habitaciones y 2 baños que destaca por su amplitud y luminosidad natural gracias a sus grandes ventanales y terraza privada. La vivienda, ubicada en planta baja de un edificio de 1995 bien conservado, distribuye perfectamente sus espacios con zonas de día y noche bien diferenciadas, ideal para familias o profesionales que buscan confort. Además de la terraza, la propiedad incluye garaje privado y acceso a las instalaciones deportivas del edificio con gimnasio completamente equipado. La zona es tranquila pero bien conectada, en uno de los barrios más consolidados de Barcelona con excelentes servicios y transporte público a tu alcance."
   },
   {
     "id": "p_016",
@@ -311,7 +311,7 @@
     "built_year": null,
     "floor": 0,
     "features": [],
-    "description": "Estudio centrico recien reformado en Sarria, Barcelona. 113 m2, 3 hab."
+    "description": "Espectacular penthouse de 113 m² en Sarrià con 3 habitaciones y 2 baños que destaca por sus amplios espacios y luminosidad natural en todas sus estancias. La vivienda cuenta con una distribución muy funcional que aprovecha al máximo la planta, ideal para familias o profesionales que buscan confort y tranquilidad en una de las zonas más exclusivas de Barcelona. Situado en el corazón de Sarrià, tendrás a tu alcance comercios, restaurantes y servicios de calidad, además de estar rodeado de zonas verdes que caracterizan este barrio residencial. Un inmueble perfecto para disfrutar de la vida en la ciudad sin renunciar a la paz y el bienestar que ofrece esta privilegiada ubicación."
   },
   {
     "id": "p_017",
@@ -332,7 +332,7 @@
       "elevator",
       "air_conditioning"
     ],
-    "description": "Chalet independiente con jardin en San Blas, Alicante. 104 m2, 4 hab."
+    "description": "Luminoso piso de 104 m² en la cuarta planta de San Blas con 4 habitaciones y 4 baños, ideal para familias o inversores. Distribución funcional que aprovecha muy bien la luz natural gracias a su orientación, con una agradable terraza donde disfrutar del buen clima alicantino. Cuenta con aire acondicionado para mayor confort y ascensor en el edificio, lo que facilita el acceso. Aunque requiere algunas actualizaciones propias de su construcción de 1970, presenta un buen estado de conservación y se encuentra en una zona bien conectada con comercios y servicios cercanos."
   },
   {
     "id": "p_018",
@@ -349,7 +349,7 @@
     "built_year": null,
     "floor": 0,
     "features": [],
-    "description": "Piso con vistas al parque en Deusto, Bilbao. 105 m2, 2 hab."
+    "description": "Chalet de 105 m² situado en la deseable zona de Deusto, con 2 dormitorios y 2 baños que ofrece una excelente distribución y luminosidad natural. La vivienda se encuentra en planta baja, lo que facilita el acceso directo y proporciona una sensación de amplitud muy valorada. Goza de buena orientación y se presenta en buen estado de conservación, perfecta para quien busca una propiedad acogedora en una zona bien conectada de Bilbao. Su ubicación en Deusto garantiza proximidad a servicios, transporte público y todas las comodidades que ofrece este barrio consolidado."
   },
   {
     "id": "p_019",
@@ -368,7 +368,7 @@
     "features": [
       "garage"
     ],
-    "description": "Duplex con acabados de calidad en Centro, Alicante. 267 m2, 1 hab."
+    "description": "Espacioso piso de 267 m² en el corazón del centro de Alicante, perfecto para quien busca amplitud y versatilidad. La vivienda cuenta con un dormitorio y un baño, además de amplias zonas comunes ideales para adaptar según tus necesidades, con excelente iluminación natural gracias a sus grandes ventanales. Ubicado en tercera planta con acceso a garaje incluido, goza de una inmejorable ubicación con todo tipo de servicios, comercios y transporte público a poca distancia. Un inmueble con gran potencial en una de las zonas más demandadas de la ciudad."
   },
   {
     "id": "p_020",
@@ -391,7 +391,7 @@
       "elevator",
       "garage"
     ],
-    "description": "Piso de alquiler cerca del metro en Triana, Sevilla. 157 m2, 5 hab."
+    "description": "Espectacular penthouse de 157 m² en la deseable zona de Triana, Sevilla, situado en la tercera planta de un edificio de 2012 con acabados contemporáneos. Esta vivienda distribuye sus 5 habitaciones y 1 baño de forma práctica, inundada de luz natural gracias a sus amplias ventanas que ofrecen vistas al barrio. El inmueble se entrega completamente amueblado y equipado, ideal para quien busca comodidad inmediata, y dispone de garaje privado en el edificio, ascensor, servicio de conserjería y gimnasio comunitario para uso exclusivo de los residentes. Ubicación privilegiada en uno de los barrios más vibrantes de Sevilla, perfecto para disfrutar de la gastronomía, la cultura y el ambiente bohemio de Triana."
   },
   {
     "id": "p_021",
@@ -413,7 +413,7 @@
       "garden",
       "garage"
     ],
-    "description": "Vivienda centrica con garaje en La Eliana, Valencia. 68 m2, 4 hab."
+    "description": "Encantador chalet en La Eliana con 68 m² de superficie y distribución práctica que cuenta con 4 habitaciones y 1 baño. La propiedad destaca por su amplio jardín, piscina privada y garaje, perfectos para disfrutar en familia, además de servicio de conserjería en la comunidad. La vivienda se encuentra en una ubicación tranquila y residencial, ideal para quienes buscan calidad de vida cerca de Valencia. Un inmueble completo con buenas posibilidades de reforma y adaptación a tus necesidades."
   },
   {
     "id": "p_022",
@@ -436,7 +436,7 @@
       "terrace",
       "air_conditioning"
     ],
-    "description": "Piso con vistas al parque en Eixample, Barcelona. 288 m2, 5 hab."
+    "description": "Vivienda de 288 m² con 5 habitaciones y 3 baños ubicada en la singular zona del Eixample, perfecta para familias que buscan espacio y comodidad. La propiedad distribuye sus estancias de forma práctica, garantizando amplitud y luminosidad natural en las principales zonas de estar, con acceso directo a un jardín privado y terraza que invitan al disfrute al aire libre. Dispone de aire acondicionado, ascensor y plaza de garaje, facilitando la vida cotidiana en una de las áreas más demandadas de Barcelona. Un inmueble singular en planta baja con todos los servicios y equipamientos necesarios para una vida moderna y de calidad."
   },
   {
     "id": "p_023",
@@ -456,7 +456,7 @@
       "terrace",
       "garage"
     ],
-    "description": "Vivienda centrica con garaje en Mestalla, Valencia. 175 m2, 3 hab."
+    "description": "Acogedora casa de 175 m² en Mestalla con 3 habitaciones y 3 baños, construida en 2010 en perfectas condiciones de conservación. Distribuida en planta baja, cuenta con amplios espacios luminosos y una agradable terraza ideal para disfrutar del buen tiempo en familia. La vivienda incluye garaje propio, lo que facilita notablemente la movilidad en la zona, y se encuentra en un tranquilo barrio residencial con buena conectividad y todos los servicios a mano."
   },
   {
     "id": "p_024",
@@ -479,7 +479,7 @@
       "storage",
       "gym"
     ],
-    "description": "Casa adosada familiar en Indautxu, Bilbao. 191 m2, 2 hab."
+    "description": "Luminoso piso de 191 m² ubicado en la octava planta de un edificio con servicios completos en la deseable zona de Indautxu. Distribuido en 2 dormitorios y 2 baños, ofrece amplios espacios con excelente entrada de luz natural y acceso a una terraza privada. La vivienda cuenta con aire acondicionado, portería, trastero y acceso a zona de gym, perfecta para disfrutar de la comodidad y el bien ubicado barrio con proximidad a comercios y servicios. Inmueble en muy buen estado listo para entrar a vivir."
   },
   {
     "id": "p_025",
@@ -499,7 +499,7 @@
       "pool",
       "gym"
     ],
-    "description": "Casa adosada familiar en Tetuan, Madrid. 280 m2, 3 hab."
+    "description": "Espaciosa vivienda unifamiliar de 280 m² en Tetuán que combina amplitud y comodidad para toda la familia. Distribuida en 3 dormitorios y 1 baño, destaca por sus generosos espacios diáfanos que permiten una excelente entrada de luz natural, creando un ambiente cálido y acogedor. La propiedad cuenta con acceso directo a piscina y gimnasio, perfectos para disfrutar del ocio sin salir de casa. Ubicada en una zona bien comunicada de Madrid, es una opción ideal para quienes buscan una vivienda con carácter en un entorno residencial consolidado."
   },
   {
     "id": "p_026",
@@ -520,7 +520,7 @@
       "elevator",
       "furnished"
     ],
-    "description": "Casa adosada familiar en El Cabanyal, Valencia. 275 m2, 2 hab."
+    "description": "Espectacular penthouse de 275 m² en El Cabanyal con amplias terrazas que aprovechan al máximo la luz natural y las vistas. La vivienda distribuye perfectamente dos dormitorios y un baño completo en una planta tercera con acabados modernos, gracias a su construcción en 2020. Completamente amueblado y con ascensor, es el espacio ideal para disfrutar del ambiente bohemio del barrio sin renunciar a la comodidad y las zonas al aire libre. Zona consolidada con encanto marinero, comercios, bares y a pasos del paseo marítimo."
   },
   {
     "id": "p_027",
@@ -541,7 +541,7 @@
       "garden",
       "pool"
     ],
-    "description": "Atico en alquiler con terraza en El Cabanyal, Valencia. 101 m2, 4 hab."
+    "description": "Espectacular penthouse de 101 m² en el deseable barrio de El Cabanyal con 4 amplias habitaciones y 2 baños completamente equipados. La vivienda se distribuye de manera muy funcional y destaca por su excelente entrada de luz natural gracias a su ubicación en tercera planta, creando espacios luminosos y acogedores. Amueblado y listo para entrar a vivir, cuenta con acceso a jardín privado y piscina, perfectos para disfrutar del clima mediterráneo durante todo el año. Zona tranquila y consolidada, con todos los servicios a mano y a pocos pasos de las playas y la oferta gastronómica del barrio."
   },
   {
     "id": "p_028",
@@ -558,7 +558,7 @@
     "built_year": 1977,
     "floor": 2,
     "features": [],
-    "description": "Vivienda centrica con garaje en Los Remedios, Sevilla. 290 m2, 4 hab."
+    "description": "Amplio piso de 290 m² en Los Remedios con 4 dormitorios y 3 baños, ubicado en segunda planta de un edificio clásico de los años 70. La vivienda goza de excelente iluminación natural gracias a sus amplias ventanas y distribución abierta, con espacios generosos tanto en zonas comunes como en dormitorios. Aunque requiere una reforma integral para actualizar acabados, la estructura del inmueble es sólida y ofrece mucho potencial para convertirse en una vivienda de lujo. Situado en una de las mejores zonas residenciales de Sevilla, con proximidad a comercios, restaurantes y transporte público, es una oportunidad ideal para quien busque amplitud y buen ubicación en el barrio."
   },
   {
     "id": "p_029",
@@ -580,7 +580,7 @@
       "pool",
       "elevator"
     ],
-    "description": "Atico con terraza panoramica en Teatinos, Malaga. 205 m2, 3 hab."
+    "description": "Precioso chalet de 205 m² distribuido en tres dormitorios y dos baños completos, ubicado en la codiciada zona de Teatinos. La vivienda goza de amplia luminosidad gracias a sus grandes ventanales y se encuentra en perfecto estado de conservación, con aire acondicionado para disfrutar del clima malagueño. Destaca por sus excelentes comodidades: garaje privado, ascensor y piscina propia, todo ello en una zona tranquila y bien comunicada con acceso fácil a servicios y comercios de la ciudad."
   },
   {
     "id": "p_030",
@@ -597,7 +597,7 @@
     "built_year": 2016,
     "floor": 0,
     "features": [],
-    "description": "Apartamento exterior soleado en Chamartin, Madrid. 219 m2, 5 hab."
+    "description": "Espaciosa vivienda unifamiliar de 219 m² ubicada en la deseable zona de Chamartín, construida en 2016 con acabados modernos y distribución muy funcional. La casa cuenta con 5 amplias habitaciones y 3 baños completos, ofreciendo espacios diáfanos y luminosos gracias a sus grandes ventanales. Se trata de una propiedad en perfecto estado de conservación, lista para entrar a vivir, en una zona tranquila y bien comunicada con excelentes servicios y transportes cercanos. Un hogar ideal para familias que buscan amplitud, comodidad y calidad en una ubicación privilegiada de Madrid."
   },
   {
     "id": "p_031",
@@ -618,7 +618,7 @@
       "elevator",
       "garden"
     ],
-    "description": "Apartamento exterior soleado en Teatinos, Malaga. 99 m2, 5 hab."
+    "description": "Magnífico penthouse de 99 m² situado en la cuarta planta de una finca con ascensor en la zona de Teatinos, Málaga. Distribuido en 5 habitaciones y 2 baños, destaca por sus amplios espacios diáfanos y excelente iluminación natural gracias a sus orientaciones. El inmueble cuenta con aire acondicionado para mayor comodidad y acceso a un agradable jardín privado, ideal para disfrutar del clima malagueño. Un hogar luminoso y bien equipado en una zona tranquila y bien comunicada."
   },
   {
     "id": "p_032",
@@ -639,7 +639,7 @@
       "garage",
       "garden"
     ],
-    "description": "Apartamento temporal equipado en Campanar, Valencia. 180 m2, 4 hab."
+    "description": "Espectacular penthouse de 180 m² ubicado en la tranquila zona de Campanar, con 4 amplias habitaciones y 2 baños completamente reformados. La vivienda destaca por sus grandes ventanales que inundan de luz natural todos los espacios, ofreciendo una distribución muy funcional con zonas de día y noche bien diferenciadas. Dispone de ascensor directo, plaza de garaje privada y un maravilloso jardín con vistas, ideal para disfrutar del buen clima valenciano. Construcción de calidad del 2002, bien conservada y lista para entrar a vivir en una zona consolidada con excelente acceso a servicios y transporte público."
   },
   {
     "id": "p_033",
@@ -658,7 +658,7 @@
     "features": [
       "storage"
     ],
-    "description": "Piso de obra nueva en Deusto, Bilbao. 61 m2, 2 hab."
+    "description": "Acogedora vivienda de 61 m² ubicada en la deseable zona de Deusto, perfecta para quien busca un hogar funcional y bien comunicado. Distribuida en dos dormitorios y un baño, la propiedad destaca por su luminosidad gracias a su orientación y amplios ventanales que inundan los espacios de luz natural. Cuenta con trastero adicional, ideal para almacenamiento, y se presenta en buen estado de conservación, lista para entrar a vivir. La localización en planta baja facilita el acceso y la zona ofrece proximidad a servicios, comercios y transporte público."
   },
   {
     "id": "p_034",
@@ -681,7 +681,7 @@
       "concierge",
       "storage"
     ],
-    "description": "Apartamento exterior soleado en Macarena, Sevilla. 217 m2, 2 hab."
+    "description": "Vivienda de nueva construcción en el barrio de Macarena con 217 m² de superficie y distribución funcional con 2 dormitorios y 1 baño completo. Destaca por sus amplios espacios llenos de luz natural, aire acondicionado y una agenradable terraza ideal para disfrutar del buen tiempo sevillano. La propiedad incluye garaje privado, trastero y acceso a servicio de conserjería, todo en una zona bien comunicada y consolidada del norte de Sevilla."
   },
   {
     "id": "p_035",
@@ -702,7 +702,7 @@
       "concierge",
       "air_conditioning"
     ],
-    "description": "Casa adosada familiar en Chueca, Madrid. 131 m2, 5 hab."
+    "description": "Luminoso flat de 131 m² situado en planta 2 en el corazón de Chueca, con 5 habitaciones y 5 baños que lo hacen ideal para familias o inversores. El inmueble, de obra nueva (2023), destaca por sus amplios espacios bien distribuidos y abundante luz natural en todas sus estancias, con aire acondicionado para máximo confort. La comunidad cuenta con servicios premium como gimnasio privado y concierge, ubicándose en una zona vibrante con excelente conectividad, bares, restaurantes y comercios a pie de calle."
   },
   {
     "id": "p_036",
@@ -721,7 +721,7 @@
     "features": [
       "garden"
     ],
-    "description": "Chalet independiente con jardin en Cabo Huertas, Alicante. 210 m2, 5 hab."
+    "description": "Magnífico penthouse de 210 m² en la cuarta planta de Cabo Huertas con vistas excepcionales al mar y la costa. Distribuido en 5 amplias habitaciones y 4 baños completos, este inmueble destaca por sus espacios luminosos gracias a sus grandes ventanales y orientación privilegiada. Dispone de una preciosa terraza-jardín ideal para disfrutar del buen clima de Alicante, perfecta para crear tu espacio exterior privado. La zona de Cabo Huertas es una de las más demandadas de la ciudad, con paseos marítimos, playas cercanas y todo tipo de servicios a tu alcance."
   },
   {
     "id": "p_037",
@@ -740,7 +740,7 @@
     "features": [
       "pool"
     ],
-    "description": "Atico con terraza panoramica en Sarria, Barcelona. 227 m2, 2 hab."
+    "description": "Encantador chalet de 227 m² en la tranquila zona de Sarrià, con 2 amplias habitaciones y 2 baños que garantizan comodidad y privacidad. La vivienda cuenta con excelentes vistas y luminosidad natural gracias a sus grandes ventanales, distribuida de forma práctica en planta baja con acceso directo a la piscina privada, ideal para disfrutar del buen tiempo. A pesar de su construcción de 1974, el inmueble mantiene un buen estado general y ofrece el encanto de una propiedad con carácter en una de las zonas más cotizadas y residenciales de Barcelona. La ubicación privilegiada en Sarrià proporciona un ambiente tranquilo y seguro, rodeado de espacios verdes y con fácil acceso a todas las comodidades del barrio."
   },
   {
     "id": "p_038",
@@ -762,7 +762,7 @@
       "terrace",
       "elevator"
     ],
-    "description": "Piso luminoso reformado en Macarena, Sevilla. 269 m2, 4 hab."
+    "description": "Magnífico penthouse de 269 m² ubicado en la sexta planta con amplias terrazas y vistas despejadas en el barrio de Macarena. La vivienda se distribuye en 4 amplios dormitorios, 1 baño completo y espacios comunes muy luminosos gracias a su orientación privilegiada y altura. Dispone de aire acondicionado, trastero independiente y acceso por ascensor, con excelentes acabados considerando la época de construcción. Una oportunidad perfecta para disfrutar de una vivienda con carácter en una zona consolidada y bien conectada de Sevilla."
   },
   {
     "id": "p_039",
@@ -782,7 +782,7 @@
       "air_conditioning",
       "elevator"
     ],
-    "description": "Chalet independiente con jardin en Pedregalejo, Malaga. 149 m2, 4 hab."
+    "description": "Bonita casa de nueva construcción en Pedregalejo con 149 m² de superficie y una distribución muy funcional que cuenta con 4 habitaciones y 1 baño. La vivienda se beneficia de una excelente luminosidad natural gracias a su amplias ventanas y está climatizada con aire acondicionado para mayor confort durante todo el año. Ubicada en planta baja con acceso por ascensor, goza de una ubicación privilegiada en una de las zonas más demandadas de Málaga, muy cerca de la playa y con todo tipo de servicios y comercios a tu alcance."
   },
   {
     "id": "p_040",
@@ -803,7 +803,7 @@
       "terrace",
       "garden"
     ],
-    "description": "Casa con piscina comunitaria en Eixample, Barcelona. 84 m2, 1 hab."
+    "description": "Luminoso piso de 84 m² en la tercera planta de un edificio con ascensor en plena zona de Eixample. Distribuido en un dormitorio y dos baños completos, aprovecha excelentemente la luz natural gracias a su orientación y ventilación cruzada. El inmueble, construido en 1994, se encuentra en buen estado y cuenta con terraza y jardín privado, ideales para disfrutar del clima barcelonés. Ubicación privilegiada en uno de los barrios más demandados de la ciudad, con fácil acceso a comercios, transporte público y toda la oferta de ocio del Eixample."
   },
   {
     "id": "p_041",
@@ -825,7 +825,7 @@
       "pool",
       "concierge"
     ],
-    "description": "Apartamento exterior soleado en Triana, Sevilla. 241 m2, 4 hab."
+    "description": "Espectacular penthouse de 241 m² en Triana con 4 dormitorios y 1 baño, completamente amueblado y listo para entrar a vivir. Destaca por sus amplias terrazas con vistas excepcionales al barrio, piscina privada y portería 24 horas para mayor seguridad y comodidad. La vivienda goza de excelente luminosidad natural gracias a sus grandes ventanales, ofreciendo una distribución práctica e ideal para familias o como inversión. La zona de Triana es privilegiada, con un ambiente bohemio, próxima a bares, restaurantes y con fácil acceso a todas las amenidades de la ciudad."
   },
   {
     "id": "p_042",
@@ -844,7 +844,7 @@
     "features": [
       "storage"
     ],
-    "description": "Estudio centrico recien reformado en Sarria, Barcelona. 194 m2, 4 hab."
+    "description": "Acogedor piso de 194 m² ubicado en la quinta planta de un edificio de reciente construcción en la tranquila zona de Sarrià. Cuenta con 4 habitaciones y 1 baño completo, distribución funcional con amplios espacios luminosos gracias a sus grandes ventanales. El inmueble goza de excelente estado de conservación, construido en 2014, e incluye trastero de almacenamiento. Situado en una de las áreas más residenciales y bien comunicadas de Barcelona, rodeado de comercios, colegios y zonas verdes."
   },
   {
     "id": "p_043",
@@ -865,7 +865,7 @@
       "pool",
       "garage"
     ],
-    "description": "Piso de obra nueva en Eixample, Barcelona. 223 m2, 3 hab."
+    "description": "Magnífico piso de 223 m² en la primera planta del Eixample con una distribución muy funcional: 3 habitaciones, 3 baños completos y amplios espacios comunes inundados de luz natural gracias a sus grandes ventanales. El inmueble está equipado con aire acondicionado, dispone de plaza de garaje privada y acceso a piscina comunitaria, lo que lo convierte en una opción ideal para disfrutar del confort en plena ciudad. Ubicado en una de las zonas más cotizadas de Barcelona, con excelente conectividad y todos los servicios a tu alcance."
   },
   {
     "id": "p_044",
@@ -888,7 +888,7 @@
       "storage",
       "pool"
     ],
-    "description": "Piso luminoso reformado en San Blas, Alicante. 179 m2, 3 hab."
+    "description": "Espacioso flat de 179 m² en la quinta planta de San Blas con tres habitaciones y un baño, perfecto para familias o inversores. Muy luminoso gracias a sus amplios ventanales, el inmueble cuenta con terraza privada, aire acondicionado y trastero para mayor comodidad. Completamente amueblado y listo para entrar a vivir, se encuentra en una zona bien comunicada con acceso a la piscina comunitaria. A pesar de su construcción de 1976, mantiene un estado general bueno y es una excelente oportunidad en una zona consolidada y tranquila."
   },
   {
     "id": "p_045",
@@ -910,7 +910,7 @@
       "air_conditioning",
       "concierge"
     ],
-    "description": "Casa adosada familiar en Centro, Alicante. 207 m2, 5 hab."
+    "description": "Espectacular penthouse de 207 m² en el corazón de Alicante, ubicado en la quinta planta de un edificio de reciente construcción (2016) con todas las comodidades. Distribuido en 5 amplias habitaciones y 3 baños completos, destaca por sus grandes ventanales que inundan de luz natural los espacios y ofrecen vistas privilegiadas de la ciudad. Equipado con aire acondicionado, acceso a gimnasio privado y servicio de conserjería, además de trastero incluido, lo que lo convierte en una opción perfecta para quienes buscan lujo y comodidad en el centro. El estado impecable y las acabados de calidad garantizan una vivienda lista para disfrutar desde el primer día."
   },
   {
     "id": "p_046",
@@ -931,7 +931,7 @@
       "terrace",
       "storage"
     ],
-    "description": "Atico en alquiler con terraza en Abando, Bilbao. 221 m2, 5 hab."
+    "description": "Espectacular piso de 221 m² completamente amueblado en el corazón de Abando, Bilbao. Distribuido en 5 dormitorios y 5 baños, este inmueble de nueva construcción (2024) se sitúa en segunda planta y destaca por sus amplios espacios llenos de luz natural. Cuenta con terraza privada y trastero, perfectos para disfrutar del entretenimiento y el almacenaje adicional. Una vivienda de lujo ideal para familias numerosas o inversores, en una zona privilegiada con todo tipo de servicios y conectividad."
   },
   {
     "id": "p_047",
@@ -953,7 +953,7 @@
       "gym",
       "furnished"
     ],
-    "description": "Apartamento temporal equipado en Los Remedios, Sevilla. 35 m2, 5 hab."
+    "description": "Acogedor estudio de 35 m² situado en la octava planta de Los Remedios, Sevilla, completamente amueblado y listo para vivir. El inmueble cuenta con excelente iluminación natural gracias a sus grandes ventanales y una distribución inteligente que aprovecha al máximo el espacio disponible. El edificio, construido en 1996, ofrece todas las comodidades: piscina, gimnasio y garaje incluido, perfecta para una persona o pareja que busca una zona tranquila y bien comunicada. A pesar de ser un espacio compacto, destaca por su buen estado de conservación y la amplitud que transmite gracias a su excelente orientación."
   },
   {
     "id": "p_048",
@@ -976,7 +976,7 @@
       "gym",
       "concierge"
     ],
-    "description": "Atico en alquiler con terraza en Casco Viejo, Bilbao. 237 m2, 2 hab."
+    "description": "Acogedor estudio de 237 m² ubicado en la sexta planta del Casco Viejo de Bilbao, con distribución funcional que cuenta con 2 espacios diferenciados y 1 baño completo. El inmueble goza de una excelente luminosidad gracias a sus amplios ventanales y se encuentra completamente amueblado y en buen estado de conservación. La comunidad ofrece servicios premium con piscina, jardín, gimnasio y conserjería, perfecta para una vida cómoda en el corazón del casco histórico."
   },
   {
     "id": "p_049",
@@ -999,7 +999,7 @@
       "concierge",
       "garden"
     ],
-    "description": "Duplex con acabados de calidad en Cabo Huertas, Alicante. 80 m2, 3 hab."
+    "description": "Bonito chalet de 80 m² en Cabo Huertas con 3 dormitorios y 1 baño, completamente amueblado y listo para entrar a vivir. La vivienda dispone de amplio jardín privado y piscina, perfecta para disfrutar del clima mediterráneo, además de garaje y los servicios de conserjería de la urbanización. Con una distribución práctica y luminosa, este inmueble es ideal para una familia que busque comodidad y tranquilidad en una de las zonas más cotizadas de Alicante."
   },
   {
     "id": "p_050",
@@ -1018,7 +1018,7 @@
     "features": [
       "furnished"
     ],
-    "description": "Piso de alquiler cerca del metro en Poble Nou, Barcelona. 181 m2, 0 hab."
+    "description": "Luminoso estudio de 181 m² en la deseable zona de Poble Nou, ideal para quien busca amplitud y flexibilidad en un espacio único. Completamente amueblado y listo para habitar, el inmueble cuenta con un baño y una generosa distribución diáfana que aprovecha al máximo la entrada de luz natural. Ubicado en planta baja, ofrece fácil acceso y se encuentra en una zona en plena transformación con galerías de arte, tiendas y restaurantes a tu alrededor. A pesar de su construcción de 1981, el espacio bien distribuido y amueblado lo convierte en una opción práctica y confortable en uno de los barrios más dinámicos de Barcelona."
   },
   {
     "id": "p_051",
@@ -1035,7 +1035,7 @@
     "built_year": 2006,
     "floor": 0,
     "features": [],
-    "description": "Piso luminoso reformado en Centro, Alicante. 273 m2, 4 hab."
+    "description": "Amplio chalet de 273 m² en el centro de Alicante con 4 dormitorios y 1 baño, ideal para familias que buscan espacio y comodidad. La vivienda, construida en 2006, se distribuye de forma funcional con zonas bien diferenciadas y recibe una excelente iluminación natural gracias a sus múltiples vanos. Ubicado en una zona céntrica, el inmueble ofrece acceso fácil a servicios, comercios y transporte público. Se trata de una oportunidad perfecta para quienes desean una propiedad de tamaño generoso en el corazón de la ciudad."
   },
   {
     "id": "p_052",
@@ -1056,7 +1056,7 @@
       "terrace",
       "elevator"
     ],
-    "description": "Piso luminoso reformado en Macarena, Sevilla. 152 m2, 1 hab."
+    "description": "Chalet unifamiliar de 152 m² situado en la zona de Macarena con una distribución funcional que aprovecha muy bien el espacio. Dispone de 1 dormitorio y 1 baño, con terrazas que permiten disfrutar de excelente luz natural durante todo el día. El inmueble cuenta con garage privado y acceso por ascensor, lo que facilita el día a día. Construcción de 1979 en buen estado de conservación, ideal como primera vivienda o inversión en una zona bien comunicada y con servicios a mano."
   },
   {
     "id": "p_053",
@@ -1078,7 +1078,7 @@
       "concierge",
       "elevator"
     ],
-    "description": "Apartamento exterior soleado en Arganzuela, Madrid. 248 m2, 5 hab."
+    "description": "Espacioso piso de 248 m² en Arganzuela con 5 habitaciones y 2 baños, ideal para familias o inversores. Ubicado en 4ª planta con ascensor, goza de buena luminosidad natural y ofrece una distribución funcional y cómoda. El inmueble, construido en 2007, se mantiene en buen estado y cuenta con climatización, trastero y servicio de conserjería que facilita la convivencia. Una excelente opción en una zona bien comunicada con todos los servicios y transportes públicos a mano."
   },
   {
     "id": "p_054",
@@ -1100,7 +1100,7 @@
       "terrace",
       "pool"
     ],
-    "description": "Chalet independiente con jardin en Centro, Malaga. 94 m2, 2 hab."
+    "description": "Apartamento luminoso de 94 m² situado en el corazón de Málaga, con dos dormitorios y un baño completamente reformado. Distribuido de forma práctica, cuenta con salón comedor muy diáfano que se abre a una terraza privada, perfecta para disfrutar del clima malagueño. El inmueble se encuentra en cuarta planta con ascensor, dispone de garaje incluido y acceso a piscina comunitaria, amenidades ideales para la zona céntrica en la que se ubica. Edificio bien mantenido de los años 90, con buena orientación y excelente conexión a todos los servicios del centro histórico."
   },
   {
     "id": "p_055",
@@ -1123,7 +1123,7 @@
       "garden",
       "storage"
     ],
-    "description": "Atico en alquiler con terraza en Malasana, Madrid. 200 m2, 3 hab."
+    "description": "Espectacular penthouse de 200 m² en plena Malasaña, situado en la cuarta planta con acceso a una agradable terraza-jardín. La vivienda cuenta con 3 dormitorios y 3 baños completamente equipados, distribuyéndose en espacios amplios y luminosos que aprovechan una excelente orientación natural. Dispone de aire acondicionado, zona de piscina privada, garaje y trastero, ideales para la comodidad del día a día en una de las zonas más dinámicas y bien conectadas de Madrid. Un hogar de lujo con todos los servicios a tu alcance en el corazón del barrio."
   },
   {
     "id": "p_056",
@@ -1146,7 +1146,7 @@
       "storage",
       "concierge"
     ],
-    "description": "Apartamento temporal equipado en Indautxu, Bilbao. 169 m2, 4 hab."
+    "description": "Espacioso piso de 169 m² en la codiciada zona de Indautxu, perfectamente distribuido en 4 dormitorios y 1 baño completo. La vivienda goza de una excelente iluminación natural gracias a su ubicación en primera planta, y cuenta con aire acondicionado para mayor confort durante todo el año. El edificio ofrece excelentes servicios comunitarios como gimnasio, conserjería, jardín y trastero, en un entorno tranquilo y bien conectado con todos los servicios que necesitas. Inmueble en buen estado de conservación, ideal para familias que buscan amplitud y comodidad en una de las mejores zonas residenciales de Bilbao."
   },
   {
     "id": "p_057",
@@ -1169,7 +1169,7 @@
       "pool",
       "gym"
     ],
-    "description": "Piso de alquiler cerca del metro en Centro, Malaga. 40 m2, 0 hab."
+    "description": "Acogedor estudio de 40 m² situado en el centro de Málaga, en la cuarta planta de un edificio moderno con ascensor. Cuenta con un amplio espacio diáfano muy luminoso, un completo baño y acceso a una terraza privada perfecta para disfrutar del clima málaga. El inmueble forma parte de una comunidad de calidad con piscina, gimnasio, jardín y excelentes zonas comunes, ideal para quien busca practicidad sin renunciar a las comodidades."
   },
   {
     "id": "p_058",
@@ -1189,7 +1189,7 @@
       "garage",
       "elevator"
     ],
-    "description": "Duplex con acabados de calidad en Sants, Barcelona. 135 m2, 3 hab."
+    "description": "Magnífico penthouse de 135 m² con 3 habitaciones y 2 baños ubicado en la séptima planta de un edificio con ascensor en el barrio de Sants. La vivienda destaca por su excelente orientación y luminosidad natural, con espacios amplios y bien distribuidos ideales para una familia. Se encuentra en buen estado de conservación y dispone de garaje incluido, lo que añade gran comodidad en una zona muy bien conectada con transporte público y servicios. Un inmueble perfecto para disfrutar de las vistas y la tranquilidad que ofrece este barrio consolidado de Barcelona."
   },
   {
     "id": "p_059",
@@ -1206,7 +1206,7 @@
     "built_year": 2019,
     "floor": 8,
     "features": [],
-    "description": "Piso luminoso reformado en La Eliana, Valencia. 132 m2, 3 hab."
+    "description": "Magnífico penthouse de 132 m² ubicado en la octava planta de un edificio moderno construido en 2019, que ofrece unas vistas privilegiadas sobre La Eliana. Distribuido en 3 amplios dormitorios y 2 cuartos de baño, el inmueble se caracteriza por sus espacios diáfanos y la excelente entrada de luz natural gracias a su ubicación en última planta. La vivienda goza de un estado impecable, con acabados de calidad y una estructura funcional ideal para vivir en una zona tranquila y bien comunicada. Una oportunidad perfecta para quien busca confort y luminosidad en un entorno residencial de primer nivel."
   },
   {
     "id": "p_060",
@@ -1227,7 +1227,7 @@
       "pool",
       "garden"
     ],
-    "description": "Piso luminoso reformado en Indautxu, Bilbao. 210 m2, 5 hab."
+    "description": "Espectacular penthouse de 210 m² en la codiciada zona de Indautxu, ubicado en la 4ª planta con 5 dormitorios y 4 baños completos que garantizan comodidad para toda la familia. La vivienda destaca por sus amplias zonas comunes inundadas de luz natural, perfectas para disfrutar de momentos en familia, complementadas con una magnífica terraza, jardín privado y acceso a piscina comunitaria. Tanto los espacios interiores como exteriores están en excelente estado de conservación, ofreciendo una distribución funcional y moderna ideal para quienes buscan un hogar de calidad en uno de los mejores enclaves de Bilbao."
   },
   {
     "id": "p_061",
@@ -1249,7 +1249,7 @@
       "pool",
       "gym"
     ],
-    "description": "Piso luminoso reformado en Nervion, Sevilla. 53 m2, 3 hab."
+    "description": "Espectacular ático en la codiciada zona de Nervión con acceso directo a piscina y gimnasio comunitarios. Este luminoso penthouse de 53 m² distribuye inteligentemente 3 dormitorios y 3 baños, perfecto para familias o inversión. Dispone de aire acondicionado, plaza de garaje incluida y amplias vistas que aprovechan la luz natural durante todo el día. Edificio bien mantenido con todas las comodidades para disfrutar del mejor estilo de vida en Sevilla."
   },
   {
     "id": "p_062",
@@ -1270,7 +1270,7 @@
       "storage",
       "elevator"
     ],
-    "description": "Piso de obra nueva en Cabo Huertas, Alicante. 300 m2, 4 hab."
+    "description": "Espectacular penthouse de 300 m² en la exclusiva zona de Cabo Huertas, situado en la 8ª planta de una promoción con ascensor. Distribuido en 4 amplios dormitorios y 4 baños completos, ofrece luminosidad excepcional gracias a sus grandes ventanales orientados al mar con vistas privilegiadas. Dispone de piscina comunitaria, trastero y acabados de calidad, siendo perfecto para quienes buscan vivir en una de las zonas más cotizadas de Alicante con todas las comodidades y servicios de la zona costera."
   },
   {
     "id": "p_063",
@@ -1290,7 +1290,7 @@
       "gym",
       "storage"
     ],
-    "description": "Apartamento exterior soleado en Cabo Huertas, Alicante. 235 m2, 1 hab."
+    "description": "Luminoso apartamento de 235 m² situado en la octava planta de una bien comunicada zona de Cabo Huertas, con amplios ventanales que garantizan una excelente entrada de luz natural durante todo el día. Dispone de un generoso dormitorio, dos baños completamente equipados y espacios abiertos perfectos para disfrutar de una vida cómoda y desahogada. El edificio cuenta con instalaciones de calidad como gimnasio privado y trastero, ideales para complementar tu día a día. Inmueble con carácter que mantiene buenas condiciones estructurales y se encuentra en una zona residencial tranquila con fácil acceso a servicios, playas y vías principales de Alicante."
   },
   {
     "id": "p_064",
@@ -1311,7 +1311,7 @@
       "furnished",
       "storage"
     ],
-    "description": "Vivienda centrica con garaje en Nervion, Sevilla. 109 m2, 5 hab."
+    "description": "Espectacular penthouse de 109 m² ubicado en la sexta planta con vistas privilegiadas en la zona de Nervión. Distribuido en 5 habitaciones y 4 baños, destaca por sus amplios espacios llenos de luz natural y su magnífica terraza, perfecta para disfrutar del ambiente de la ciudad. Inmueble completamente amueblado y en excelente estado de conservación, construido en 2015, con trastero incluido. Zona muy demandada con excelentes conexiones y todos los servicios al alcance."
   },
   {
     "id": "p_065",
@@ -1333,7 +1333,7 @@
       "elevator",
       "pool"
     ],
-    "description": "Piso luminoso reformado en Cabo Huertas, Alicante. 75 m2, 1 hab."
+    "description": "Bonita vivienda de 75 m² en la zona de Cabo Huertas con 1 dormitorio y 2 baños, perfecta para quienes buscan una propiedad acogedora y funcional. La planta baja favorece la accesibilidad y cuenta con una amplia terraza ideal para disfrutar del clima mediterráneo. El inmueble incluye acceso a piscina comunitaria, storage y ascensor en el edificio, lo que suma comodidad al día a día. Ubicado en una zona tranquila y bien conectada, es una excelente opción para vivienda habitual o inversión."
   },
   {
     "id": "p_066",
@@ -1356,7 +1356,7 @@
       "storage",
       "gym"
     ],
-    "description": "Casa con piscina comunitaria en Moncloa, Madrid. 268 m2, 1 hab."
+    "description": "Magnífico chalet de 268 m² ubicado en la prestigiosa zona de Moncloa, construido en 2018 con acabados de primera calidad y amplios espacios muy luminosos. Dispone de 1 dormitorio y 2 baños completos, distribución inteligente y amueblado, ideal para quien busca confort y elegancia en una de las áreas más demandadas de Madrid. El inmueble incluye aire acondicionado, trastero, acceso a zona de gimnasio y servicio de conserjería, además de todas las comodidades para disfrutar de una vida de lujo en planta baja con excelentes accesos. Zona tranquila pero bien comunicada, perfecta para profesionales que valoran la calidad de vida y la proximidad a servicios de primer nivel."
   },
   {
     "id": "p_067",
@@ -1379,7 +1379,7 @@
       "furnished",
       "concierge"
     ],
-    "description": "Piso de obra nueva en Casco Viejo, Bilbao. 244 m2, 4 hab."
+    "description": "Magnífico piso de 244 m² en la quinta planta del emblemático Casco Viejo de Bilbao, completamente amueblado y con excelentes prestaciones. Distribuido en 4 amplias habitaciones y 1 baño completo, aprovecha una magnífica iluminación natural gracias a sus grandes ventanales que se abren a las pintorescas calles del barrio histórico. El inmueble incluye plaza de garaje, trastero y servicio de conserjería, con acceso por ascensor que facilita el día a día. Ubicado en una zona con toda la esencia medieval de Bilbao, rodeado de bares, restaurantes y comercios, es una oportunidad perfecta para quienes buscan vivir en el corazón de la ciudad con comodidad y carácter."
   },
   {
     "id": "p_068",
@@ -1398,7 +1398,7 @@
     "features": [
       "elevator"
     ],
-    "description": "Atico en alquiler con terraza en Deusto, Bilbao. 122 m2, 4 hab."
+    "description": "Acogedor estudio de 122 m² ubicado en la tercera planta de un edificio con ascensor en la codiciada zona de Deusto, Bilbao. Distribución práctica con 4 habitaciones y 4 baños que lo hacen ideal para compartir o para quien busque espacios versátiles y bien diferenciados. Inmueble de construcción clásica de 1975 que mantiene buenos acabados, con buena entrada de luz natural que ilumina todos los rincones del hogar. Zona tranquila y bien conectada con todos los servicios, perfecto para estudiantes o profesionales que buscan independencia en una de las áreas más demandadas de la ciudad."
   },
   {
     "id": "p_069",
@@ -1415,7 +1415,7 @@
     "built_year": 2021,
     "floor": 0,
     "features": [],
-    "description": "Duplex con acabados de calidad en Santa Cruz, Sevilla. 220 m2, 4 hab."
+    "description": "Bonita casa de reciente construcción ubicada en el corazón del barrio histórico de Santa Cruz, con 220 m² de superficie y una distribución muy funcional que cuenta con 4 habitaciones y 3 baños completos. La vivienda destaca por su excelente iluminación natural gracias a sus amplios ventanales, mientras que su estado impecable refleja los cuidados de una obra de 2021. Situado en una de las zonas más emblemáticas de Sevilla, el inmueble se beneficia de la proximidad a monumentos, restaurantes y comercios tradicionales, siendo ideal para quienes buscan vivir en el centro histórico sin renunciar a la modernidad y el confort."
   },
   {
     "id": "p_070",
@@ -1436,7 +1436,7 @@
       "storage",
       "gym"
     ],
-    "description": "Duplex con acabados de calidad en Patraix, Valencia. 296 m2, 3 hab."
+    "description": "Amplia vivienda unifamiliar de 296 m² en Patraix con 3 dormitorios y 3 baños, perfecta para familias que buscan espacio y confort. La casa dispone de buena iluminación natural, jardín privado ideal para disfrutar al aire libre, y cuenta con trastero y gimnasio en la propiedad para mayor comodidad. Construida en 1982, la vivienda mantiene una estructura sólida en planta baja, ofreciendo una distribución funcional y práctica en una de las zonas más demandadas de Valencia."
   },
   {
     "id": "p_071",
@@ -1459,7 +1459,7 @@
       "concierge",
       "furnished"
     ],
-    "description": "Casa con piscina comunitaria en Indautxu, Bilbao. 300 m2, 3 hab."
+    "description": "Espaciosa vivienda de 300 m² en Indautxu con 3 habitaciones y 1 baño, perfecta para familias que buscan amplitud y comodidad en el corazón de Bilbao. La casa cuenta con terraza y jardín privado, ideales para disfrutar del aire libre, además de aire acondicionado para mantener una temperatura agradable todo el año. Se entrega amueblada y lista para vivir, con acceso a conserjería que facilita la convivencia en esta zona consolidada y bien conectada. Un inmueble con excelentes posibilidades de distribución que aprovecha muy bien la luz natural gracias a sus múltiples espacios."
   },
   {
     "id": "p_072",
@@ -1482,7 +1482,7 @@
       "gym",
       "pool"
     ],
-    "description": "Casa con piscina comunitaria en El Palo, Malaga. 223 m2, 2 hab."
+    "description": "Encantador chalet de 223 m² situado en la deseable zona de El Palo, con 2 dormitorios y 2 baños completamente reformados. La vivienda destaca por sus amplias terrazas que permiten disfrutar de mucha luz natural durante todo el día, ideal para disfrutar del clima mediterráneo. Cuenta con garaje privado, acceso por ascensor y se beneficia de las excelentes comunales: piscina y zona de gimnasio. A pesar de su construcción de 1972, el inmueble ha sido cuidadosamente mantenido y conserva todo su encanto con las comodidades modernas que demanda hoy en día."
   },
   {
     "id": "p_073",
@@ -1502,7 +1502,7 @@
       "elevator",
       "garden"
     ],
-    "description": "Atico en alquiler con terraza en Centro, Alicante. 286 m2, 1 hab."
+    "description": "Moderno estudio en plena zona Centro de Alicante, situado en la 4ª planta de un edificio de reciente construcción (2022) con ascensor. Dispone de 286 m² de superficie luminosa distribuidos en 1 dormitorio y 2 baños completos, perfectos para disfrutar de máximo confort. El inmueble destaca por sus amplios espacios llenos de claridad natural y acabados de calidad, además de contar con acceso a un agradable jardín comunitario ideal para relajarse. Ubicación privilegiada en el Centro, con todos los servicios, comercios y transporte público a tu alcance."
   },
   {
     "id": "p_074",
@@ -1523,7 +1523,7 @@
       "garden",
       "garage"
     ],
-    "description": "Atico con terraza panoramica en Centro, Alicante. 73 m2, 4 hab."
+    "description": "Espacioso piso de 73 m² en plena zona Centro de Alicante con una distribucion práctica de 4 habitaciones y 3 baños que lo hacen ideal para familias o inversores. La vivienda goza de excelente luminosidad natural gracias a sus grandes ventanales, manteniéndose en buen estado de conservación desde su construcción en 1999. Cuenta con terraza y jardín privado, perfectos para disfrutar del clima mediterráneo, además de plaza de garaje incluida. Situado en la 4ª planta, el piso permite acceso a todos los servicios y comercios del Centro, con una ubicación inmejorable para la vida urbana."
   },
   {
     "id": "p_075",
@@ -1545,7 +1545,7 @@
       "storage",
       "furnished"
     ],
-    "description": "Chalet independiente con jardin en Centro, Malaga. 133 m2, 5 hab."
+    "description": "Encantador chalet de 133 m² completamente amueblado en el centro de Málaga, distribuido en 5 espaciosas habitaciones y 5 baños, perfecto para familias grandes o inversión turística. La propiedad goza de excelente iluminación natural gracias a sus grandes ventanales y dispone de garaje privado y trastero, proporcionando máxima comodidad y seguridad. Cuenta con una magnífica piscina privada ideal para disfrutar del clima mediterráneo, característica muy valorada en la zona. Aunque el inmueble data de 1989, se encuentra en buen estado de conservación y su céntrica ubicación lo convierte en una oportunidad interesante en una de las áreas más demandadas de Málaga."
   },
   {
     "id": "p_076",
@@ -1566,7 +1566,7 @@
       "concierge",
       "air_conditioning"
     ],
-    "description": "Atico en alquiler con terraza en Salamanca, Madrid. 149 m2, 2 hab."
+    "description": "Luminoso piso amueblado en la prestigiosa zona de Salamanca con 149 m² de superficie distribuidos en 2 dormitorios y 1 baño completo. La vivienda, ubicada en la 6ª planta, destaca por sus amplios espacios inundados de luz natural y su excelente climatización con aire acondicionado. El edificio dispone de portería y servicios de conserje, garantizando seguridad y comodidad en una de las zonas más demandadas de Madrid, perfecta para quienes buscan vivir en el corazón de la ciudad con todos los servicios a mano."
   },
   {
     "id": "p_077",
@@ -1587,7 +1587,7 @@
       "pool",
       "furnished"
     ],
-    "description": "Atico en alquiler con terraza en Cabo Huertas, Alicante. 141 m2, 0 hab."
+    "description": "Acogedor estudio de 141 m² en la octava planta de Cabo Huertas con vistas al mar y abundante luz natural. Dispone de dos baños completos, zona de estar-dormitorio diáfana y cocina equipada, todo amueblado y listo para entrar a vivir. El edificio cuenta con piscina comunitaria y trastero incluido, situado en una zona tranquila y bien comunicada de Alicante, con acceso directo a la playa y todos los servicios a tu alcance."
   },
   {
     "id": "p_078",
@@ -1610,7 +1610,7 @@
       "air_conditioning",
       "elevator"
     ],
-    "description": "Chalet independiente con jardin en San Blas, Alicante. 214 m2, 1 hab."
+    "description": "Espectacular penthouse de 214 m² en la exclusiva zona de San Blas con amplias terrazas y vistas privilegiadas. Distribución diáfana y luminosa con un dormitorio y un baño completamente reformado, ideal para quien busca espacio y comodidad en una sola planta. La vivienda cuenta con aire acondicionado, acceso directo a terraza, ascensor privado y acceso a las zonas comunes que incluyen gimnasio y concierge. Ubicación premium en una de las áreas más demandadas de Alicante, con todos los servicios y comercios a tu alcance."
   },
   {
     "id": "p_079",
@@ -1629,7 +1629,7 @@
     "features": [
       "elevator"
     ],
-    "description": "Chalet independiente con jardin en Chamartin, Madrid. 120 m2, 2 hab."
+    "description": "Luminosa vivienda de 120 m² ubicada en la zona de Chamartín, perfecta para quien busca comodidad en una ubicación privilegiada de Madrid. Distribuida en 2 amplios dormitorios y 1 baño, con espacios bien definidos que aprovechan la luz natural a lo largo del día. Construida en 2004, el inmueble se encuentra en buen estado de conservación y cuenta con ascensor, facilitando el acceso a esta planta baja. Una excelente opción para invertir o vivir en una zona bien comunicada y con todos los servicios a tu alcance."
   },
   {
     "id": "p_080",
@@ -1648,7 +1648,7 @@
     "features": [
       "garden"
     ],
-    "description": "Estudio centrico recien reformado en Indautxu, Bilbao. 54 m2, 2 hab."
+    "description": "Espectacular penthouse de 54 m² en la sexta planta de un edificio en la codiciada zona de Indautxu, con 2 dormitorios y 2 baños que ofrecen comodidad y privacidad. La vivienda destaca por sus amplios ventanales que inundan de luz natural todos los espacios, creando un ambiente luminoso y acogedor perfecto para disfrutar de las vistas de la ciudad. Completa la propiedad un exclusivo jardín en la azotea, ideal para relajarse y disfrutar del aire libre en pleno centro de Bilbao. Se trata de un inmueble en buen estado, perfectamente distribuido y listo para entrar a vivir, ubicado en una zona con excelente conectividad y acceso a todos los servicios."
   },
   {
     "id": "p_081",
@@ -1670,7 +1670,7 @@
       "garden",
       "gym"
     ],
-    "description": "Atico en alquiler con terraza en La Malagueta, Malaga. 165 m2, 5 hab."
+    "description": "Espacioso flat de 165 m² en la privilegiada zona de La Malagueta, perfectamente distribuido en 5 habitaciones y 1 baño, ideal para familias o grupos. La planta baja te permite disfrutar de una amplia terraza y jardín privado, además de acceso directo a las zonas comunes que incluyen piscina y gimnasio. Luminoso y bien orientado, destaca por sus amplios espacios y la tranquilidad que ofrece esta ubicación residencial, a escasos pasos del paseo marítimo y todas las comodidades del barrio. Perfecto para quienes buscan confort y servicios en una de las mejores áreas de Málaga."
   },
   {
     "id": "p_082",
@@ -1692,7 +1692,7 @@
       "gym",
       "storage"
     ],
-    "description": "Atico con terraza panoramica en Macarena, Sevilla. 132 m2, 1 hab."
+    "description": "Exclusivo penthouse de 132 m² en la zona de Macarena con una distribución moderna y funcional que aprovecha al máximo la luz natural. El inmueble cuenta con un amplio dormitorio, un completo cuarto de baño y zonas comunes muy luminosas gracias a su ubicación en planta 6. Edificio bien conservado de 2009 con excelentes servicios: ascensor, garaje incluido, gimnasio y trastero, todo pensado para tu comodidad. Ubicado en una zona con gran demanda, cerca de comercios, restaurantes y con fácil acceso a las principales vías de la ciudad."
   },
   {
     "id": "p_083",
@@ -1713,7 +1713,7 @@
       "air_conditioning",
       "furnished"
     ],
-    "description": "Casa con piscina comunitaria en Centro, Malaga. 160 m2, 1 hab."
+    "description": "Excepcional penthouse de 160 m² en la sexta planta de un edificio moderno del centro de Málaga, con una distribución funcional que combina un amplio salón con cocina abierta, dormitorio principal muy luminoso y baño completo. La vivienda disfruta de abundante luz natural gracias a sus orientaciones y cuenta con aire acondicionado para el máximo confort durante todo el año. Completamente amueblado y listo para entrar a vivir, el inmueble destaca por su estado impecable, siendo de reciente construcción (2022), y ofrece la gran ventaja de acceso a piscina comunitaria, ideal para disfrutar de las vistas y el clima malagueño. Una oportunidad única para quienes buscan un piso con encanto en pleno centro, con todas las comodidades y servicios a los pies de la calle."
   },
   {
     "id": "p_084",
@@ -1730,7 +1730,7 @@
     "built_year": null,
     "floor": 0,
     "features": [],
-    "description": "Vivienda centrica con garaje en Santa Cruz, Sevilla. 67 m2, 2 hab."
+    "description": "Bonito chalet de 67 m² ubicado en el corazón del barrio histórico de Santa Cruz, en Sevilla. Distribuido en planta baja con 2 habitaciones y 2 baños, perfectamente aprovechados para máxima funcionalidad. La vivienda se beneficia de una excelente luminosidad natural gracias a sus orientaciones, creando espacios acogedores y bien iluminados. Zona de gran demanda, rodeada de la belleza monumental de Sevilla, con acceso a todo tipo de servicios y comercios tradicionales a pie."
   },
   {
     "id": "p_085",
@@ -1753,7 +1753,7 @@
       "concierge",
       "storage"
     ],
-    "description": "Piso con vistas al parque en Arganzuela, Madrid. 134 m2, 5 hab."
+    "description": "Precioso chalet de 134 m² construido en 2018, ubicado en la deseable zona de Arganzuela, que ofrece todas las comodidades de una vivienda moderna y bien distribuida. Dispone de 5 amplias habitaciones y 5 baños completos, perfectos para familias grandes o como inversión con alto potencial de rentabilidad. La vivienda cuenta con excelente iluminación natural, aire acondicionado en todas las estancias, garaje privado y trastero, además de servicio de conserjería que garantiza tranquilidad y seguridad. Se entrega amueblado y listo para entrar a vivir, en una zona bien comunicada con todos los servicios y transportes públicos al alcance de la mano."
   },
   {
     "id": "p_086",
@@ -1776,7 +1776,7 @@
       "elevator",
       "garden"
     ],
-    "description": "Casa con piscina comunitaria en Indautxu, Bilbao. 89 m2, 1 hab."
+    "description": "Precioso flat de 89 m² situado en la cuarta planta de un edificio con ascensor en la deseable zona de Indautxu. Distribuido en un luminoso salón-comedor, cocina office, un dormitorio y un completo baño, el inmueble goza de excelentes vistas y aprovecha perfectamente la luz natural. La propiedad incluye parking privado, trastero y acceso a piscina y jardín comunitario, ideales para disfrutar del buen tiempo. En una zona bien comunicada, rodeada de comercios y servicios, es la opción perfecta para quien busca comodidad y calidad de vida en Bilbao."
   },
   {
     "id": "p_087",
@@ -1795,7 +1795,7 @@
     "features": [
       "garden"
     ],
-    "description": "Piso de alquiler cerca del metro en La Malagueta, Malaga. 44 m2, 0 hab."
+    "description": "Acogedor estudio de 44 m² ubicado en la quinta planta de un edificio de 2014 en la codiciada zona de La Malagueta, que destaca por su excelente luminosidad natural y distribución funcional. Dispone de dos baños completos, lo que lo convierte en una opción versátil tanto para vivir como para invertir, y cuenta con acceso a un agradable jardín donde disfrutar del clima malagueño. El inmueble goza de buen estado de conservación y una ubicación privilegiada cerca de playas, comercios y servicios, siendo ideal para quienes buscan un pied-à-terre o una vivienda compacta en primera línea de costa."
   },
   {
     "id": "p_088",
@@ -1817,7 +1817,7 @@
       "concierge",
       "gym"
     ],
-    "description": "Atico en alquiler con terraza en Ruzafa, Valencia. 241 m2, 1 hab."
+    "description": "Luminoso piso de 241 m² en la vibrante zona de Ruzafa, ubicado en 5ª planta con amplias vistas y excelente entrada de luz natural. El inmueble cuenta con un generoso espacio diáfano que combina sala de estar y dormitorio, perfecto para quien busca máxima funcionalidad, además de un completo baño. La propiedad forma parte de una comunidad con servicios premium: piscina, aire acondicionado, gimnasio y servicio de conserjería, ideales para disfrutar de una vida cómoda en el corazón de uno de los barrios más dinámicos de Valencia. A pesar de su gran metraje, el piso mantiene una distribución práctica y moderna, en perfecto estado y listo para entrar a vivir."
   },
   {
     "id": "p_089",
@@ -1834,7 +1834,7 @@
     "built_year": 1987,
     "floor": 6,
     "features": [],
-    "description": "Casa adosada familiar en El Cabanyal, Valencia. 222 m2, 5 hab."
+    "description": "Espacioso piso de 222 m² en la sexta planta ubicado en el corazón de El Cabanyal, con 5 habitaciones y 1 baño que ofrece gran potencial tanto para vivienda como para inversión. La vivienda cuenta con buena luminosidad gracias a sus amplias ventanas y una distribución funcional que aprovecha bien el espacio disponible. Aunque data de 1987 y requiere reformas para modernizarse, presenta una estructura sólida característica de los inmuebles de la época. La zona de El Cabanyal, con su ambiente bohemio, proximidad al mar y gran oferta de ocio, lo convierte en una opción interesante para quienes buscan vivir en una de las áreas más vibrantes de Valencia."
   },
   {
     "id": "p_090",
@@ -1851,7 +1851,7 @@
     "built_year": 1988,
     "floor": 8,
     "features": [],
-    "description": "Chalet independiente con jardin en Los Remedios, Sevilla. 160 m2, 1 hab."
+    "description": "Espectacular penthouse en la octava planta ubicado en la deseable zona de Los Remedios, con amplias vistas y excelente luminosidad natural gracias a sus grandes ventanales. Distribuido en 160 m² con un generoso salón-comedor diáfano, dormitorio principal de buen tamaño y dos baños completos, ideal para vivienda habitual o inversión. El inmueble mantiene la solidez constructiva de su época y goza de una ubicación privilegiada en una zona bien comunicada con todos los servicios y comercios de la ciudad. Déjate seducir por las vistas, la luz y la tranquilidad de vivir en altura en uno de los barrios más demandados de Sevilla."
   },
   {
     "id": "p_091",
@@ -1870,7 +1870,7 @@
     "features": [
       "elevator"
     ],
-    "description": "Casa con piscina comunitaria en Playa San Juan, Alicante. 292 m2, 2 hab."
+    "description": "Amplia vivienda de 292 m² ubicada en la exclusiva zona de Playa San Juan, a tan solo pasos del mar. La casa dispone de 2 espaciosas habitaciones y 2 baños completos, con una distribución moderna y luminosa que aprovecha al máximo la luz natural gracias a sus amplios ventanales. Construida en 2018, el inmueble se encuentra en perfecto estado de conservación y cuenta con ascensor para mayor comodidad. Una opción ideal para disfrutar de la calidad de vida costera con todas las ventajas de una vivienda contemporánea y bien equipada."
   },
   {
     "id": "p_092",
@@ -1892,7 +1892,7 @@
       "air_conditioning",
       "storage"
     ],
-    "description": "Apartamento exterior soleado en Ruzafa, Valencia. 178 m2, 4 hab."
+    "description": "Luminoso piso de 178 m² en la popular zona de Ruzafa con 4 habitaciones y 2 baños distribuidos de forma funcional y acogedora. Ubicado en 6ª planta, goza de excelente iluminación natural y vistas despejadas, ideal para disfrutar de este barrio con gran ambiente y oferta de restauración. El inmueble viene completamente amueblado y equipado con aire acondicionado, además incluye plaza de garaje y trastero, perfecta solución integral para vivir sin preocupaciones en una zona cada vez más demandada de la ciudad."
   },
   {
     "id": "p_093",
@@ -1909,7 +1909,7 @@
     "built_year": null,
     "floor": 5,
     "features": [],
-    "description": "Casa con piscina comunitaria en Arganzuela, Madrid. 124 m2, 4 hab."
+    "description": "Luminoso piso de 124 m² situado en la quinta planta de Arganzuela, perfectamente distribuido con 4 habitaciones y 4 baños que lo hacen ideal para familias o inversores. Las estancias cuentan con excelente entrada de luz natural y una disposición funcional que aprovecha al máximo el espacio disponible. La zona es muy bien comunicada con transporte público y servicios próximos, ofreciendo la comodidad de vivir en un barrio consolidado del centro madrileño. Un inmueble en buen estado que no requiere obras y está listo para entrar a vivir."
   },
   {
     "id": "p_094",
@@ -1931,7 +1931,7 @@
       "garage",
       "pool"
     ],
-    "description": "Vivienda centrica con garaje en Les Corts, Barcelona. 161 m2, 1 hab."
+    "description": "Luminoso penthouse de 161 m² en la tercera planta de Les Corts con amplios ventanales que inundan de luz natural toda la vivienda. Distribuido en un espacioso salón-comedor, cocina independiente, dormitorio y un completo baño, ideal para disfrutar de la tranquilidad y las vistas desde la azotea. Edificio bien mantenido con aire acondicionado, garaje privado, piscina comunitaria y servicio de conserjería que garantiza la comodidad y seguridad del día a día. Zona consolidada con excelente comunicación y cercanía a comercios, transporte público y servicios."
   },
   {
     "id": "p_095",
@@ -1954,7 +1954,7 @@
       "storage",
       "gym"
     ],
-    "description": "Atico con terraza panoramica en Patraix, Valencia. 139 m2, 2 hab."
+    "description": "Luminoso piso de 139 m² en la zona residencial de Patraix con 2 dormitorios y 2 baños completos, perfecto para familias o profesionales que buscan comodidad y espacio. La distribución es muy práctica, con amplios salones que aprovechan excelentemente la luz natural, y todas las habitaciones bien orientadas. El inmueble forma parte de una comunidad con excelentes servicios: piscina, gimnasio, garage y trastero, además de ascensor para mayor comodidad. Ubicado en un barrio tranquilo y bien conectado, ideal para disfrutar de la calidad de vida que ofrece Valencia."
   },
   {
     "id": "p_096",
@@ -1977,7 +1977,7 @@
       "terrace",
       "pool"
     ],
-    "description": "Duplex con acabados de calidad en Abando, Bilbao. 132 m2, 5 hab."
+    "description": "Amplio flat de 132 m² situado en la cuarta planta de un edificio con ascensor en la zona de Abando, Bilbao. Distribuido en 5 habitaciones y 5 baños, destaca por su excelente iluminación natural y acabados cuidados, siendo un inmueble construido en 1998 que ha sido bien mantenido. Equipado como vivienda amueblada, incluye terraza privada, acceso a piscina comunitaria y trastero, ofreciendo todas las comodidades para disfrutar de una vivienda completa en una de las mejores ubicaciones de la ciudad."
   },
   {
     "id": "p_097",
@@ -1997,7 +1997,7 @@
       "garage",
       "gym"
     ],
-    "description": "Apartamento temporal equipado en Pedregalejo, Malaga. 144 m2, 1 hab."
+    "description": "Espectacular penthouse de 144 m² ubicado en la séptima planta de un edificio moderno en Pedregalejo, con vistas despejadas y abundante luz natural. Distribuido en un amplio salón-comedor, cocina office, 1 dormitorio y 1 baño completo, todo con acabados de calidad y diseño contemporáneo. El inmueble cuenta con garaje privado incluido y acceso a completo gimnasio en el edificio, perfecto para disfrutar de un estilo de vida premium. Zona privilegiada con todos los servicios a mano, playas cercanas y tranquilidad garantizada en este edificio bien mantenido desde 2009."
   },
   {
     "id": "p_098",
@@ -2016,7 +2016,7 @@
     "features": [
       "terrace"
     ],
-    "description": "Casa con piscina comunitaria en Teatinos, Malaga. 178 m2, 5 hab."
+    "description": "Espacioso piso de 178 m² en la quinta planta con 5 dormitorios y 4 baños, ideal para familias grandes o inversores. La vivienda cuenta con una distribución muy práctica que aprovecha excelentemente la luz natural, con amplias estancias y una acogedora terraza donde disfrutar de vistas y espacio al aire libre. Ubicado en Teatinos, una zona bien comunicada con servicios y comercios cercanos, el piso se mantiene en buen estado de conservación. Una oportunidad perfecta para quienes buscan amplitud y comodidad en una ubicación estratégica de Málaga."
   },
   {
     "id": "p_099",
@@ -2036,7 +2036,7 @@
       "garden",
       "air_conditioning"
     ],
-    "description": "Piso amueblado en alquiler en San Blas, Alicante. 143 m2, 4 hab."
+    "description": "Magnífico penthouse de 143 m² en San Blas con 4 habitaciones y 2 baños completamente reformado y listo para vivir. Distribución muy funcional que aprovecha al máximo la luz natural gracias a sus amplios ventanales, con acceso directo a una acogedora terraza-jardín privada, ideal para disfrutar del clima mediterráneo. Equipado con aire acondicionado en todas las estancias, ofrece el confort y la climatización perfecta durante todo el año. Ubicado en una zona tranquila y bien conectada de Alicante, con todos los servicios y comodidades a tu alcance."
   },
   {
     "id": "p_100",
@@ -2059,6 +2059,6 @@
       "terrace",
       "garden"
     ],
-    "description": "Vivienda centrica con garaje en Abando, Bilbao. 235 m2, 3 hab."
+    "description": "Espléndido chalet de 235 m² en la codiciada zona de Abando, Bilbao, con 3 amplias habitaciones y 2 baños completamente equipados. Distribuido en planta baja, ofrece una luminosa y funcional disposición con acceso directo a una privada terraza y jardín, ideales para disfrutar del exterior en cualquier momento. Completamente amueblado y con acabados en buen estado, el inmueble cuenta con ascensor y gimnasio privado, lo que lo convierte en una vivienda única en una de las mejores ubicaciones de la ciudad. Una oportunidad perfecta para quien busca tranquilidad y comodidad en pleno centro de Bilbao."
   }
 ]

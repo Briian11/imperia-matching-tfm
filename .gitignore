@@ -13,6 +13,7 @@ data/processed/*
 !data/processed/.gitkeep
 !data/processed/embeddings_cache.json
 !data/processed/embeddings_cache_degraded.json
+!data/synthetic/properties_extra.json
 reports/results/*
 !reports/results/.gitkeep
 !reports/results/comparison_all.json
