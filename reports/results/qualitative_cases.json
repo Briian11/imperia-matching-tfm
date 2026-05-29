@@ -1,0 +1,443 @@
+{
+  "caso_1_match_perfecto": {
+    "caso": "match_perfecto",
+    "descripcion": "Cliente con perfil completo. La propiedad top del ranking cumple todos los criterios y tiene la máxima relevancia en las etiquetas.",
+    "cliente": {
+      "id": "c_005",
+      "nombre": "Laura Sanchez",
+      "preferencia": {
+        "operation": "BUY",
+        "property_types": [
+          "FLAT",
+          "HOUSE"
+        ],
+        "zones": [
+          "Ruzafa",
+          "Campanar"
+        ],
+        "cities": [
+          "Valencia"
+        ],
+        "price_max": 550000,
+        "bedrooms_min": null,
+        "bathrooms_min": 1,
+        "surface_min_m2": 52,
+        "features": []
+      }
+    },
+    "propiedad": {
+      "id": "p_003",
+      "title": "Atico con terraza panoramica en Campanar",
+      "operation": "BUY",
+      "property_type": "HOUSE",
+      "price": 192156,
+      "city": "Valencia",
+      "zone": "Campanar",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "surface_m2": 266,
+      "features": [
+        "gym",
+        "garden"
+      ]
+    },
+    "score_total": 91.5,
+    "relevance_etiqueta": 3,
+    "posicion_en_ranking": 1,
+    "ranking_top5": [
+      {
+        "rank": 1,
+        "property_id": "p_003",
+        "score": 91.5
+      },
+      {
+        "rank": 2,
+        "property_id": "p_092",
+        "score": 91.5
+      },
+      {
+        "rank": 3,
+        "property_id": "p_070",
+        "score": 87.5
+      },
+      {
+        "rank": 4,
+        "property_id": "p_089",
+        "score": 87.5
+      },
+      {
+        "rank": 5,
+        "property_id": "p_095",
+        "score": 87.5
+      }
+    ],
+    "desglose_criterios": [
+      {
+        "criterion": "operation",
+        "earned": 20,
+        "maximum": 20,
+        "matched": true,
+        "client_value": "BUY",
+        "property_value": "BUY",
+        "note": null
+      },
+      {
+        "criterion": "property_type",
+        "earned": 13,
+        "maximum": 13,
+        "matched": true,
+        "client_value": "FLAT, HOUSE",
+        "property_value": "HOUSE",
+        "note": null
+      },
+      {
+        "criterion": "location",
+        "earned": 20,
+        "maximum": 20,
+        "matched": true,
+        "client_value": "Ruzafa, Campanar, Valencia, Valencia",
+        "property_value": "Campanar, Valencia, Valencia",
+        "note": "Zona exacta"
+      },
+      {
+        "criterion": "price",
+        "earned": 20,
+        "maximum": 20,
+        "matched": true,
+        "client_value": "<=550000",
+        "property_value": "192156",
+        "note": "Dentro del presupuesto"
+      },
+      {
+        "criterion": "bedrooms",
+        "earned": 3.5,
+        "maximum": 7,
+        "matched": true,
+        "client_value": null,
+        "property_value": null,
+        "note": null
+      },
+      {
+        "criterion": "bathrooms",
+        "earned": 3,
+        "maximum": 3,
+        "matched": true,
+        "client_value": "1",
+        "property_value": "2",
+        "note": null
+      },
+      {
+        "criterion": "surface",
+        "earned": 7,
+        "maximum": 7,
+        "matched": true,
+        "client_value": "52",
+        "property_value": "266",
+        "note": null
+      },
+      {
+        "criterion": "features",
+        "earned": 2.0,
+        "maximum": 4,
+        "matched": true,
+        "client_value": null,
+        "property_value": null,
+        "note": null
+      },
+      {
+        "criterion": "built_year",
+        "earned": 1.5,
+        "maximum": 3,
+        "matched": true,
+        "client_value": null,
+        "property_value": null,
+        "note": null
+      },
+      {
+        "criterion": "floor",
+        "earned": 1.5,
+        "maximum": 3,
+        "matched": true,
+        "client_value": null,
+        "property_value": null,
+        "note": null
+      }
+    ],
+    "observacion": "Todos los criterios están cubiertos. La propiedad aparece en el puesto 1 del ranking con score 91.5/100 y relevance=3. Los puntos no perfectos en bedrooms, built_year y floor se deben a que el cliente no especificó mínimo para esos campos (puntuación parcial por defecto)."
+  },
+  "caso_2_datos_incompletos": {
+    "caso": "datos_incompletos",
+    "descripcion": "El mismo cliente con campos eliminados (simulando un lead parcial). Se analiza cómo cambia la puntuación y el ranking cuando faltan campos clave.",
+    "cliente_id": "c_005",
+    "nombre": "Laura Sanchez",
+    "campos_eliminados": [
+      "property_types",
+      "price_max",
+      "bathrooms_min"
+    ],
+    "score_con_perfil_completo": 91.5,
+    "score_con_datos_incompletos": 76.1,
+    "diferencia_score": -15.4,
+    "posicion_ranking_completo": 1,
+    "posicion_ranking_degradado": 1,
+    "ranking_top5_completo": [
+      {
+        "rank": 1,
+        "property_id": "p_003",
+        "score": 91.5
+      },
+      {
+        "rank": 2,
+        "property_id": "p_092",
+        "score": 91.5
+      },
+      {
+        "rank": 3,
+        "property_id": "p_070",
+        "score": 87.5
+      },
+      {
+        "rank": 4,
+        "property_id": "p_089",
+        "score": 87.5
+      },
+      {
+        "rank": 5,
+        "property_id": "p_095",
+        "score": 87.5
+      }
+    ],
+    "ranking_top5_degradado": [
+      {
+        "rank": 1,
+        "property_id": "p_003",
+        "score": 76.1
+      },
+      {
+        "rank": 2,
+        "property_id": "p_092",
+        "score": 76.1
+      },
+      {
+        "rank": 3,
+        "property_id": "p_021",
+        "score": 72.1
+      },
+      {
+        "rank": 4,
+        "property_id": "p_023",
+        "score": 72.1
+      },
+      {
+        "rank": 5,
+        "property_id": "p_026",
+        "score": 72.1
+      }
+    ],
+    "criterios_afectados": [
+      {
+        "criterion": "property_type",
+        "score_completo": 13,
+        "score_degradado": 9.1,
+        "diferencia": -3.9
+      },
+      {
+        "criterion": "price",
+        "score_completo": 20,
+        "score_degradado": 10.0,
+        "diferencia": -10.0
+      },
+      {
+        "criterion": "bathrooms",
+        "score_completo": 3,
+        "score_degradado": 1.5,
+        "diferencia": -1.5
+      }
+    ],
+    "desglose_completo": [
+      {
+        "criterion": "operation",
+        "earned": 20,
+        "maximum": 20,
+        "matched": true,
+        "client_value": "BUY",
+        "property_value": "BUY",
+        "note": null
+      },
+      {
+        "criterion": "property_type",
+        "earned": 13,
+        "maximum": 13,
+        "matched": true,
+        "client_value": "FLAT, HOUSE",
+        "property_value": "HOUSE",
+        "note": null
+      },
+      {
+        "criterion": "location",
+        "earned": 20,
+        "maximum": 20,
+        "matched": true,
+        "client_value": "Ruzafa, Campanar, Valencia, Valencia",
+        "property_value": "Campanar, Valencia, Valencia",
+        "note": "Zona exacta"
+      },
+      {
+        "criterion": "price",
+        "earned": 20,
+        "maximum": 20,
+        "matched": true,
+        "client_value": "<=550000",
+        "property_value": "192156",
+        "note": "Dentro del presupuesto"
+      },
+      {
+        "criterion": "bedrooms",
+        "earned": 3.5,
+        "maximum": 7,
+        "matched": true,
+        "client_value": null,
+        "property_value": null,
+        "note": null
+      },
+      {
+        "criterion": "bathrooms",
+        "earned": 3,
+        "maximum": 3,
+        "matched": true,
+        "client_value": "1",
+        "property_value": "2",
+        "note": null
+      },
+      {
+        "criterion": "surface",
+        "earned": 7,
+        "maximum": 7,
+        "matched": true,
+        "client_value": "52",
+        "property_value": "266",
+        "note": null
+      },
+      {
+        "criterion": "features",
+        "earned": 2.0,
+        "maximum": 4,
+        "matched": true,
+        "client_value": null,
+        "property_value": null,
+        "note": null
+      },
+      {
+        "criterion": "built_year",
+        "earned": 1.5,
+        "maximum": 3,
+        "matched": true,
+        "client_value": null,
+        "property_value": null,
+        "note": null
+      },
+      {
+        "criterion": "floor",
+        "earned": 1.5,
+        "maximum": 3,
+        "matched": true,
+        "client_value": null,
+        "property_value": null,
+        "note": null
+      }
+    ],
+    "desglose_degradado": [
+      {
+        "criterion": "operation",
+        "earned": 20,
+        "maximum": 20,
+        "matched": true,
+        "client_value": "BUY",
+        "property_value": "BUY",
+        "note": null
+      },
+      {
+        "criterion": "property_type",
+        "earned": 9.1,
+        "maximum": 13,
+        "matched": true,
+        "client_value": null,
+        "property_value": null,
+        "note": null
+      },
+      {
+        "criterion": "location",
+        "earned": 20,
+        "maximum": 20,
+        "matched": true,
+        "client_value": "Ruzafa, Campanar, Valencia, Valencia",
+        "property_value": "Campanar, Valencia, Valencia",
+        "note": "Zona exacta"
+      },
+      {
+        "criterion": "price",
+        "earned": 10.0,
+        "maximum": 20,
+        "matched": true,
+        "client_value": null,
+        "property_value": null,
+        "note": null
+      },
+      {
+        "criterion": "bedrooms",
+        "earned": 3.5,
+        "maximum": 7,
+        "matched": true,
+        "client_value": null,
+        "property_value": null,
+        "note": null
+      },
+      {
+        "criterion": "bathrooms",
+        "earned": 1.5,
+        "maximum": 3,
+        "matched": true,
+        "client_value": null,
+        "property_value": null,
+        "note": null
+      },
+      {
+        "criterion": "surface",
+        "earned": 7,
+        "maximum": 7,
+        "matched": true,
+        "client_value": "52",
+        "property_value": "266",
+        "note": null
+      },
+      {
+        "criterion": "features",
+        "earned": 2.0,
+        "maximum": 4,
+        "matched": true,
+        "client_value": null,
+        "property_value": null,
+        "note": null
+      },
+      {
+        "criterion": "built_year",
+        "earned": 1.5,
+        "maximum": 3,
+        "matched": true,
+        "client_value": null,
+        "property_value": null,
+        "note": null
+      },
+      {
+        "criterion": "floor",
+        "earned": 1.5,
+        "maximum": 3,
+        "matched": true,
+        "client_value": null,
+        "property_value": null,
+        "note": null
+      }
+    ],
+    "observacion": "Al eliminar property_types, price_max y bathrooms_min, el sistema aplica puntuación parcial en lugar de penalizar con cero: sin tipo de propiedad se otorga el 70% del peso; sin precio máximo se otorga el 50%. Esto refleja incertidumbre sin descartar la propiedad. La propiedad sigue apareciendo en el top del ranking pero con menor score."
+  }
+}

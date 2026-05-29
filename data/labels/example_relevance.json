@@ -1,0 +1,11 @@
+[
+  {"client_id": "c_mad_001", "property_id": "p_mad_001", "relevance": 3},
+  {"client_id": "c_mad_001", "property_id": "p_mad_002", "relevance": 1},
+  {"client_id": "c_mad_001", "property_id": "p_val_001", "relevance": 0},
+  {"client_id": "c_mad_001", "property_id": "p_mad_rent_001", "relevance": 0},
+  {"client_id": "c_val_001", "property_id": "p_val_001", "relevance": 3},
+  {"client_id": "c_val_001", "property_id": "p_mad_001", "relevance": 0},
+  {"client_id": "c_val_001", "property_id": "p_mad_002", "relevance": 0},
+  {"client_id": "c_val_001", "property_id": "p_mad_rent_001", "relevance": 0}
+]
+

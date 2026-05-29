@@ -1,0 +1,987 @@
+[
+  {
+    "id": "c_001",
+    "name": "Ana Garcia",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "HOUSE",
+        "CHALET"
+      ],
+      "zones": [
+        "Benimaclet"
+      ],
+      "cities": [
+        "Valencia"
+      ],
+      "province": "Valencia",
+      "price_min": null,
+      "price_max": 800000,
+      "bedrooms_min": 4,
+      "bathrooms_min": 1,
+      "surface_min_m2": null,
+      "features": [
+        "amueblado",
+        "ascensor",
+        "garaje"
+      ],
+      "notes": "Quiero compra de casa por la zona de Benimaclet en Valencia. Hasta 800000. Al menos 4 dormitorios. Importante que tenga amueblado, ascensor, garaje."
+    }
+  },
+  {
+    "id": "c_002",
+    "name": "Carlos Lopez",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "FLAT"
+      ],
+      "zones": [
+        "Eixample"
+      ],
+      "cities": [
+        "Barcelona"
+      ],
+      "province": "Barcelona",
+      "price_min": 180000,
+      "price_max": 300000,
+      "bedrooms_min": null,
+      "bathrooms_min": null,
+      "surface_min_m2": null,
+      "features": [
+        "gimnasio",
+        "ascensor"
+      ],
+      "notes": "Interesado en comprar piso en Eixample, Barcelona. Presupuesto hasta 300000. Con gimnasio, ascensor."
+    }
+  },
+  {
+    "id": "c_003",
+    "name": "Maria Fernandez",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "PENTHOUSE"
+      ],
+      "zones": [
+        "El Cabanyal",
+        "Mestalla"
+      ],
+      "cities": [
+        "Valencia"
+      ],
+      "province": "Valencia",
+      "price_min": 350000,
+      "price_max": 550000,
+      "bedrooms_min": 3,
+      "bathrooms_min": 1,
+      "surface_min_m2": 126,
+      "features": [
+        "piscina",
+        "portero",
+        "gimnasio"
+      ],
+      "notes": "Necesito un atico en venta en El Cabanyal (Valencia). No mas de 550000 euros. Al menos 3 dormitorios. Minimo 126 metros. Necesito piscina, portero, gimnasio."
+    }
+  },
+  {
+    "id": "c_004",
+    "name": "Pedro Martinez",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "HOUSE"
+      ],
+      "zones": [
+        "Macarena"
+      ],
+      "cities": [
+        "Sevilla"
+      ],
+      "province": "Sevilla",
+      "price_min": null,
+      "price_max": 300000,
+      "bedrooms_min": 1,
+      "bathrooms_min": null,
+      "surface_min_m2": 74,
+      "features": [
+        "portero",
+        "garaje"
+      ],
+      "notes": "Interesado en comprar casa en Macarena, Sevilla. Presupuesto hasta 300000. Al menos 1 dormitorios. Al menos 74 m2. Con portero, garaje."
+    }
+  },
+  {
+    "id": "c_005",
+    "name": "Laura Sanchez",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "FLAT",
+        "HOUSE"
+      ],
+      "zones": [
+        "Ruzafa",
+        "Campanar"
+      ],
+      "cities": [
+        "Valencia"
+      ],
+      "province": "Valencia",
+      "price_min": null,
+      "price_max": 550000,
+      "bedrooms_min": null,
+      "bathrooms_min": 1,
+      "surface_min_m2": 52,
+      "features": [],
+      "notes": "Estoy buscando comprar un piso en Ruzafa, Valencia. Presupuesto maximo de 550000 euros. Al menos 52 m2."
+    }
+  },
+  {
+    "id": "c_006",
+    "name": "Jorge Ruiz",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "HOUSE",
+        "CHALET"
+      ],
+      "zones": [
+        "Patraix",
+        "La Eliana"
+      ],
+      "cities": [
+        "Valencia"
+      ],
+      "province": "Valencia",
+      "price_min": null,
+      "price_max": 400000,
+      "bedrooms_min": 1,
+      "bathrooms_min": null,
+      "surface_min_m2": 110,
+      "features": [],
+      "notes": "Busco casa para comprar en Valencia, preferiblemente Patraix. Maximo 400000 euros. Al menos 1 dormitorios. Al menos 110 m2."
+    }
+  },
+  {
+    "id": "c_007",
+    "name": "Elena Diaz",
+    "preference": {
+      "operation": "RENT",
+      "property_types": [
+        "PENTHOUSE",
+        "STUDIO"
+      ],
+      "zones": [
+        "Lavapies"
+      ],
+      "cities": [
+        "Madrid"
+      ],
+      "province": "Madrid",
+      "price_min": null,
+      "price_max": 800,
+      "bedrooms_min": null,
+      "bathrooms_min": 2,
+      "surface_min_m2": 40,
+      "features": [],
+      "notes": "Quiero alquilar atico por Lavapies en Madrid. Maximo 800 euros mensuales. Al menos 40 m2."
+    }
+  },
+  {
+    "id": "c_008",
+    "name": "Miguel Torres",
+    "preference": {
+      "operation": "RENT",
+      "property_types": [
+        "PENTHOUSE"
+      ],
+      "zones": [
+        "Los Remedios"
+      ],
+      "cities": [
+        "Sevilla"
+      ],
+      "province": "Sevilla",
+      "price_min": null,
+      "price_max": 1400,
+      "bedrooms_min": 4,
+      "bathrooms_min": 1,
+      "surface_min_m2": 87,
+      "features": [],
+      "notes": "Necesito alquiler de atico en Sevilla, zona Los Remedios. Hasta 1400/mes. Necesito 4 habitaciones como minimo. Al menos 87 m2."
+    }
+  },
+  {
+    "id": "c_009",
+    "name": "Sofia Moreno",
+    "preference": {
+      "operation": "RENT",
+      "property_types": [
+        "PENTHOUSE"
+      ],
+      "zones": [
+        "Indautxu",
+        "Casco Viejo",
+        "Abando"
+      ],
+      "cities": [
+        "Bilbao"
+      ],
+      "province": "Vizcaya",
+      "price_min": null,
+      "price_max": 800,
+      "bedrooms_min": 2,
+      "bathrooms_min": null,
+      "surface_min_m2": null,
+      "features": [
+        "portero",
+        "amueblado"
+      ],
+      "notes": "Necesito alquiler de atico en Bilbao, zona Indautxu. Hasta 800/mes. Minimo 2 habitaciones. Necesito portero, amueblado."
+    }
+  },
+  {
+    "id": "c_010",
+    "name": "David Jimenez",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "HOUSE"
+      ],
+      "zones": [
+        "Tetuan",
+        "Chueca"
+      ],
+      "cities": [
+        "Madrid"
+      ],
+      "province": "Madrid",
+      "price_min": 80000,
+      "price_max": 150000,
+      "bedrooms_min": null,
+      "bathrooms_min": 2,
+      "surface_min_m2": null,
+      "features": [
+        "portero",
+        "trastero",
+        "jardin"
+      ],
+      "notes": "Estoy buscando comprar un casa en Tetuan, Madrid. Presupuesto maximo de 150000 euros. Importante que tenga portero, trastero, jardin."
+    }
+  },
+  {
+    "id": "c_011",
+    "name": "Carmen Alvarez",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "PENTHOUSE",
+        "HOUSE"
+      ],
+      "zones": [
+        "Abando"
+      ],
+      "cities": [
+        "Bilbao"
+      ],
+      "province": "Vizcaya",
+      "price_min": 180000,
+      "price_max": 300000,
+      "bedrooms_min": 1,
+      "bathrooms_min": 1,
+      "surface_min_m2": null,
+      "features": [
+        "amueblado",
+        "portero",
+        "jardin"
+      ],
+      "notes": "Estoy buscando comprar un atico en Abando, Bilbao. Presupuesto maximo de 300000 euros. Al menos 1 dormitorios. Con amueblado, portero, jardin."
+    }
+  },
+  {
+    "id": "c_012",
+    "name": "Raul Romero",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "PENTHOUSE",
+        "CHALET"
+      ],
+      "zones": [
+        "Ruzafa",
+        "Mestalla"
+      ],
+      "cities": [
+        "Valencia"
+      ],
+      "province": "Valencia",
+      "price_min": 500000,
+      "price_max": 800000,
+      "bedrooms_min": 3,
+      "bathrooms_min": null,
+      "surface_min_m2": 49,
+      "features": [
+        "amueblado",
+        "trastero",
+        "terraza"
+      ],
+      "notes": "Quiero compra de atico por la zona de Ruzafa en Valencia. Hasta 800000. Necesito 3 habitaciones como minimo. Necesito 49 m2 o mas. Necesito amueblado, trastero, terraza."
+    }
+  },
+  {
+    "id": "c_013",
+    "name": "Isabel Navarro",
+    "preference": {
+      "operation": "RENT",
+      "property_types": [
+        "FLAT",
+        "PENTHOUSE"
+      ],
+      "zones": [
+        "Chamartin"
+      ],
+      "cities": [
+        "Madrid"
+      ],
+      "province": "Madrid",
+      "price_min": null,
+      "price_max": 800,
+      "bedrooms_min": 2,
+      "bathrooms_min": 2,
+      "surface_min_m2": null,
+      "features": [
+        "aire acondicionado",
+        "terraza"
+      ],
+      "notes": "Quiero alquilar piso por Chamartin en Madrid. Maximo 800 euros mensuales. Necesito 2 habitaciones como minimo. Con aire acondicionado, terraza."
+    }
+  },
+  {
+    "id": "c_014",
+    "name": "Pablo Gil",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "HOUSE",
+        "FLAT"
+      ],
+      "zones": [
+        "Ruzafa",
+        "Campanar",
+        "Patraix"
+      ],
+      "cities": [
+        "Valencia"
+      ],
+      "province": "Valencia",
+      "price_min": null,
+      "price_max": 150000,
+      "bedrooms_min": 3,
+      "bathrooms_min": 1,
+      "surface_min_m2": 128,
+      "features": [
+        "portero",
+        "garaje",
+        "jardin"
+      ],
+      "notes": "Interesado en comprar casa en Ruzafa, Valencia. Presupuesto hasta 150000. Minimo 3 habitaciones. Al menos 128 m2. Con portero, garaje, jardin."
+    }
+  },
+  {
+    "id": "c_015",
+    "name": "Lucia Molina",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "FLAT",
+        "CHALET"
+      ],
+      "zones": [
+        "Sant Andreu",
+        "Sants",
+        "Eixample"
+      ],
+      "cities": [
+        "Barcelona"
+      ],
+      "province": "Barcelona",
+      "price_min": null,
+      "price_max": 300000,
+      "bedrooms_min": 2,
+      "bathrooms_min": null,
+      "surface_min_m2": null,
+      "features": [
+        "jardin",
+        "ascensor"
+      ],
+      "notes": "Busco piso para comprar en Barcelona, preferiblemente Sant Andreu. Maximo 300000 euros. Al menos 2 dormitorios. Con jardin, ascensor."
+    }
+  },
+  {
+    "id": "c_016",
+    "name": "Andres Serrano",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "HOUSE",
+        "CHALET"
+      ],
+      "zones": [
+        "Teatinos"
+      ],
+      "cities": [
+        "Malaga"
+      ],
+      "province": "Malaga",
+      "price_min": 80000,
+      "price_max": 150000,
+      "bedrooms_min": null,
+      "bathrooms_min": 1,
+      "surface_min_m2": null,
+      "features": [
+        "trastero",
+        "portero",
+        "aire acondicionado"
+      ],
+      "notes": "Necesito un casa en venta en Teatinos (Malaga). No mas de 150000 euros. Importante que tenga trastero, portero, aire acondicionado."
+    }
+  },
+  {
+    "id": "c_017",
+    "name": "Marta Dominguez",
+    "preference": {
+      "operation": "RENT",
+      "property_types": [
+        "FLAT"
+      ],
+      "zones": [
+        "El Cabanyal",
+        "La Eliana",
+        "Mestalla"
+      ],
+      "cities": [
+        "Valencia"
+      ],
+      "province": "Valencia",
+      "price_min": null,
+      "price_max": 1800,
+      "bedrooms_min": null,
+      "bathrooms_min": null,
+      "surface_min_m2": 84,
+      "features": [
+        "jardin"
+      ],
+      "notes": "Busco alquilar un piso en El Cabanyal, Valencia. Presupuesto maximo 1800 euros al mes. Al menos 84 m2. Importante que tenga jardin."
+    }
+  },
+  {
+    "id": "c_018",
+    "name": "Fernando Gutierrez",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "HOUSE",
+        "CHALET"
+      ],
+      "zones": [
+        "Playa San Juan",
+        "Cabo Huertas",
+        "San Blas"
+      ],
+      "cities": [
+        "Alicante"
+      ],
+      "province": "Alicante",
+      "price_min": null,
+      "price_max": 300000,
+      "bedrooms_min": null,
+      "bathrooms_min": null,
+      "surface_min_m2": 45,
+      "features": [
+        "ascensor"
+      ],
+      "notes": "Necesito un casa en venta en Playa San Juan (Alicante). No mas de 300000 euros. Necesito 45 m2 o mas. Importante que tenga ascensor."
+    }
+  },
+  {
+    "id": "c_019",
+    "name": "Natalia Munoz",
+    "preference": {
+      "operation": "RENT",
+      "property_types": [
+        "PENTHOUSE",
+        "STUDIO"
+      ],
+      "zones": [
+        "San Blas"
+      ],
+      "cities": [
+        "Alicante"
+      ],
+      "province": "Alicante",
+      "price_min": null,
+      "price_max": 1800,
+      "bedrooms_min": null,
+      "bathrooms_min": 2,
+      "surface_min_m2": 101,
+      "features": [
+        "trastero",
+        "garaje"
+      ],
+      "notes": "Quiero alquilar atico por San Blas en Alicante. Maximo 1800 euros mensuales. Al menos 101 m2. Importante que tenga trastero, garaje."
+    }
+  },
+  {
+    "id": "c_020",
+    "name": "Alberto Ortega",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "CHALET",
+        "HOUSE"
+      ],
+      "zones": [
+        "Gracia",
+        "Sarria"
+      ],
+      "cities": [
+        "Barcelona"
+      ],
+      "province": "Barcelona",
+      "price_min": null,
+      "price_max": 220000,
+      "bedrooms_min": 1,
+      "bathrooms_min": null,
+      "surface_min_m2": null,
+      "features": [
+        "trastero"
+      ],
+      "notes": "Necesito un chalet en venta en Gracia (Barcelona). No mas de 220000 euros. Al menos 1 dormitorios. Importante que tenga trastero."
+    }
+  },
+  {
+    "id": "c_021",
+    "name": "Patricia Castillo",
+    "preference": {
+      "operation": "RENT",
+      "property_types": [
+        "STUDIO"
+      ],
+      "zones": [
+        "Santa Cruz",
+        "Nervion",
+        "Triana"
+      ],
+      "cities": [
+        "Sevilla"
+      ],
+      "province": "Sevilla",
+      "price_min": null,
+      "price_max": 2500,
+      "bedrooms_min": 3,
+      "bathrooms_min": null,
+      "surface_min_m2": 90,
+      "features": [
+        "portero",
+        "trastero",
+        "gimnasio"
+      ],
+      "notes": "Necesito alquiler de estudio en Sevilla, zona Santa Cruz. Hasta 2500/mes. Minimo 3 habitaciones. Al menos 90 m2. Necesito portero, trastero, gimnasio."
+    }
+  },
+  {
+    "id": "c_022",
+    "name": "Ricardo Santos",
+    "preference": {
+      "operation": "RENT",
+      "property_types": [
+        "PENTHOUSE",
+        "STUDIO"
+      ],
+      "zones": [
+        "Chamberi",
+        "Salamanca",
+        "Moncloa"
+      ],
+      "cities": [
+        "Madrid"
+      ],
+      "province": "Madrid",
+      "price_min": null,
+      "price_max": 1400,
+      "bedrooms_min": 3,
+      "bathrooms_min": null,
+      "surface_min_m2": null,
+      "features": [
+        "jardin"
+      ],
+      "notes": "Busco alquilar un atico en Chamberi, Madrid. Presupuesto maximo 1400 euros al mes. Necesito 3 habitaciones como minimo. Necesito jardin."
+    }
+  },
+  {
+    "id": "c_023",
+    "name": "Beatriz Herrera",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "PENTHOUSE"
+      ],
+      "zones": [
+        "El Cabanyal",
+        "Patraix"
+      ],
+      "cities": [
+        "Valencia"
+      ],
+      "province": "Valencia",
+      "price_min": 350000,
+      "price_max": 550000,
+      "bedrooms_min": null,
+      "bathrooms_min": 2,
+      "surface_min_m2": 141,
+      "features": [
+        "gimnasio",
+        "garaje"
+      ],
+      "notes": "Necesito un atico en venta en El Cabanyal (Valencia). No mas de 550000 euros. Al menos 141 m2. Con gimnasio, garaje."
+    }
+  },
+  {
+    "id": "c_024",
+    "name": "Javier Medina",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "FLAT"
+      ],
+      "zones": [
+        "Teatinos"
+      ],
+      "cities": [
+        "Malaga"
+      ],
+      "province": "Malaga",
+      "price_min": 80000,
+      "price_max": 150000,
+      "bedrooms_min": 2,
+      "bathrooms_min": null,
+      "surface_min_m2": 90,
+      "features": [
+        "portero",
+        "trastero",
+        "ascensor"
+      ],
+      "notes": "Interesado en comprar piso en Teatinos, Malaga. Presupuesto hasta 150000. Necesito 2 habitaciones como minimo. Necesito 90 m2 o mas. Necesito portero, trastero, ascensor."
+    }
+  },
+  {
+    "id": "c_025",
+    "name": "Rosa Iglesias",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "FLAT",
+        "HOUSE"
+      ],
+      "zones": [
+        "Playa San Juan",
+        "Centro",
+        "Cabo Huertas"
+      ],
+      "cities": [
+        "Alicante"
+      ],
+      "province": "Alicante",
+      "price_min": null,
+      "price_max": 300000,
+      "bedrooms_min": 4,
+      "bathrooms_min": null,
+      "surface_min_m2": 114,
+      "features": [],
+      "notes": "Necesito un piso en venta en Playa San Juan (Alicante). No mas de 300000 euros. Necesito 4 habitaciones como minimo. Necesito 114 m2 o mas."
+    }
+  },
+  {
+    "id": "c_026",
+    "name": "Daniel Cortes",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "HOUSE"
+      ],
+      "zones": [
+        "Casco Viejo",
+        "Abando",
+        "Indautxu"
+      ],
+      "cities": [
+        "Bilbao"
+      ],
+      "province": "Vizcaya",
+      "price_min": null,
+      "price_max": 150000,
+      "bedrooms_min": null,
+      "bathrooms_min": 2,
+      "surface_min_m2": null,
+      "features": [
+        "amueblado",
+        "aire acondicionado",
+        "ascensor"
+      ],
+      "notes": "Quiero compra de casa por la zona de Casco Viejo en Bilbao. Hasta 150000. Necesito amueblado, aire acondicionado, ascensor."
+    }
+  },
+  {
+    "id": "c_027",
+    "name": "Cristina Garrido",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "PENTHOUSE",
+        "HOUSE"
+      ],
+      "zones": [
+        "La Malagueta",
+        "Teatinos"
+      ],
+      "cities": [
+        "Malaga"
+      ],
+      "province": "Malaga",
+      "price_min": 120000,
+      "price_max": 220000,
+      "bedrooms_min": null,
+      "bathrooms_min": 2,
+      "surface_min_m2": 68,
+      "features": [
+        "jardin",
+        "trastero"
+      ],
+      "notes": "Interesado en comprar atico en La Malagueta, Malaga. Presupuesto hasta 220000. Necesito 68 m2 o mas. Con jardin, trastero."
+    }
+  },
+  {
+    "id": "c_028",
+    "name": "Hugo Delgado",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "CHALET",
+        "FLAT"
+      ],
+      "zones": [
+        "Patraix",
+        "Campanar",
+        "Mestalla"
+      ],
+      "cities": [
+        "Valencia"
+      ],
+      "province": "Valencia",
+      "price_min": 350000,
+      "price_max": 550000,
+      "bedrooms_min": 1,
+      "bathrooms_min": 1,
+      "surface_min_m2": 96,
+      "features": [
+        "ascensor",
+        "jardin"
+      ],
+      "notes": "Busco chalet para comprar en Valencia, preferiblemente Patraix. Maximo 550000 euros. Minimo 1 habitaciones. Al menos 96 m2. Necesito ascensor, jardin."
+    }
+  },
+  {
+    "id": "c_029",
+    "name": "Eva Fuentes",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "FLAT"
+      ],
+      "zones": [
+        "La Malagueta",
+        "El Palo",
+        "Centro"
+      ],
+      "cities": [
+        "Malaga"
+      ],
+      "province": "Malaga",
+      "price_min": 350000,
+      "price_max": 550000,
+      "bedrooms_min": null,
+      "bathrooms_min": null,
+      "surface_min_m2": 92,
+      "features": [],
+      "notes": "Quiero compra de piso por la zona de La Malagueta en Malaga. Hasta 550000. Al menos 92 m2."
+    }
+  },
+  {
+    "id": "c_030",
+    "name": "Adrian Vega",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "PENTHOUSE"
+      ],
+      "zones": [
+        "Lavapies",
+        "Malasana"
+      ],
+      "cities": [
+        "Madrid"
+      ],
+      "province": "Madrid",
+      "price_min": null,
+      "price_max": 800000,
+      "bedrooms_min": null,
+      "bathrooms_min": null,
+      "surface_min_m2": 62,
+      "features": [
+        "amueblado",
+        "jardin"
+      ],
+      "notes": "Interesado en comprar atico en Lavapies, Madrid. Presupuesto hasta 800000. Al menos 62 m2. Importante que tenga amueblado, jardin."
+    }
+  },
+  {
+    "id": "c_031",
+    "name": "Sara Campos",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "FLAT",
+        "PENTHOUSE"
+      ],
+      "zones": [
+        "Gracia",
+        "Sarria",
+        "Les Corts"
+      ],
+      "cities": [
+        "Barcelona"
+      ],
+      "province": "Barcelona",
+      "price_min": 180000,
+      "price_max": 300000,
+      "bedrooms_min": 2,
+      "bathrooms_min": null,
+      "surface_min_m2": null,
+      "features": [
+        "portero",
+        "gimnasio",
+        "trastero"
+      ],
+      "notes": "Interesado en comprar piso en Gracia, Barcelona. Presupuesto hasta 300000. Minimo 2 habitaciones. Necesito portero, gimnasio, trastero."
+    }
+  },
+  {
+    "id": "c_032",
+    "name": "Oscar Reyes",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "FLAT"
+      ],
+      "zones": [
+        "Cabo Huertas",
+        "San Blas"
+      ],
+      "cities": [
+        "Alicante"
+      ],
+      "province": "Alicante",
+      "price_min": null,
+      "price_max": 800000,
+      "bedrooms_min": 4,
+      "bathrooms_min": null,
+      "surface_min_m2": null,
+      "features": [
+        "ascensor"
+      ],
+      "notes": "Busco piso para comprar en Alicante, preferiblemente Cabo Huertas. Maximo 800000 euros. Minimo 4 habitaciones. Importante que tenga ascensor."
+    }
+  },
+  {
+    "id": "c_033",
+    "name": "Teresa Aguilar",
+    "preference": {
+      "operation": "RENT",
+      "property_types": [
+        "FLAT",
+        "STUDIO"
+      ],
+      "zones": [
+        "Poble Nou",
+        "Sants"
+      ],
+      "cities": [
+        "Barcelona"
+      ],
+      "province": "Barcelona",
+      "price_min": null,
+      "price_max": 1400,
+      "bedrooms_min": 3,
+      "bathrooms_min": null,
+      "surface_min_m2": null,
+      "features": [],
+      "notes": "Necesito alquiler de piso en Barcelona, zona Poble Nou. Hasta 1400/mes. Al menos 3 dormitorios."
+    }
+  },
+  {
+    "id": "c_034",
+    "name": "Manuel Blanco",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "FLAT",
+        "CHALET"
+      ],
+      "zones": [
+        "Born",
+        "Gracia"
+      ],
+      "cities": [
+        "Barcelona"
+      ],
+      "province": "Barcelona",
+      "price_min": null,
+      "price_max": 300000,
+      "bedrooms_min": 2,
+      "bathrooms_min": 2,
+      "surface_min_m2": 129,
+      "features": [
+        "trastero"
+      ],
+      "notes": "Estoy buscando comprar un piso en Born, Barcelona. Presupuesto maximo de 300000 euros. Minimo 2 habitaciones. Necesito 129 m2 o mas. Necesito trastero."
+    }
+  },
+  {
+    "id": "c_035",
+    "name": "Irene Caballero",
+    "preference": {
+      "operation": "BUY",
+      "property_types": [
+        "FLAT",
+        "CHALET"
+      ],
+      "zones": [
+        "La Malagueta"
+      ],
+      "cities": [
+        "Malaga"
+      ],
+      "province": "Malaga",
+      "price_min": 80000,
+      "price_max": 150000,
+      "bedrooms_min": null,
+      "bathrooms_min": 2,
+      "surface_min_m2": null,
+      "features": [
+        "gimnasio"
+      ],
+      "notes": "Necesito un piso en venta en La Malagueta (Malaga). No mas de 150000 euros. Con gimnasio."
+    }
+  }
+]

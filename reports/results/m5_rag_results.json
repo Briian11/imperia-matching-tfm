@@ -1,0 +1,1123 @@
+[
+  {
+    "client_id": "c_001",
+    "client_name": "Ana Garcia",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_021",
+        "score_m4": 86.5
+      },
+      {
+        "property_id": "p_023",
+        "score_m4": 82.21
+      },
+      {
+        "property_id": "p_003",
+        "score_m4": 80.68
+      },
+      {
+        "property_id": "p_070",
+        "score_m4": 79.94
+      },
+      {
+        "property_id": "p_092",
+        "score_m4": 79.21
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_092",
+      "razonamiento": "La propiedad p_092 es la mejor opción para Ana García porque cumple con TODOS los requisitos clave: (1) Tipo correcto: FLAT/Apartamento en zona urbana de Valencia, (2) Presupuesto: 296.057 EUR, muy por debajo del límite de 800.000, (3) Habitaciones: 4 dormitorios exactos, (4) Características deseadas: amueblado ✓, garaje ✓. El único elemento que falta es el ascensor, pero dado que es un apartamento exterior en Ruzafa (zona céntrica y deseable), es probable que el edificio cuente con ascensor aunque no esté explícitamente listado. Las otras propiedades tienen deficiencias significativas: p_021 y p_070 tienen solo 3 habitaciones, p_023 también tiene 3 habitaciones, p_003 tiene solo 1 habitación. Ninguna otra propiedad cumple simultáneamente con 4+ habitaciones, amueblado, garaje y ubicación adecuada.",
+      "preferencia_implicita": "Aunque Ana no lo menciona explícitamente en características deseadas, sus notas revelan preferencia por una zona céntrica y bien comunicada (Benimaclet es una zona residencial consolidada de Valencia). Esto sugiere que busca una propiedad en área urbana con buena accesibilidad, no en las afueras, lo que hace que Ruzafa sea particularmente atractivo.",
+      "punto_debil": "La propiedad está en Ruzafa, no en Benimaclet como solicitó Ana. Aunque ambas son zonas de Valencia, representa un desvío de su zona preferida. Además, aunque es poco probable, el ascensor no figura entre las características listadas, lo cual es un requisito importante para ella."
+    }
+  },
+  {
+    "client_id": "c_002",
+    "client_name": "Carlos Lopez",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_043",
+        "score_m4": 80.17
+      },
+      {
+        "property_id": "p_022",
+        "score_m4": 72.69
+      },
+      {
+        "property_id": "p_040",
+        "score_m4": 72.13
+      },
+      {
+        "property_id": "p_096",
+        "score_m4": 70.11
+      },
+      {
+        "property_id": "p_086",
+        "score_m4": 69.9
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_043",
+      "razonamiento": "La propiedad p_043 es el mejor match para Carlos Lopez por varias razones: (1) Precio dentro del presupuesto (134,168 EUR vs 180,000-300,000), (2) Ubicación exacta en Eixample, Barcelona según su búsqueda, (3) Tipo FLAT que coincide con su preferencia, (4) Superficie generosa de 223 m2 con 3 hab/3 baños, (5) Aunque no menciona explícitamente 'gimnasio' ni 'ascensor' en características, tiene amenidades premium como aire acondicionado, piscina y garaje que indican un edificio de calidad. Las propiedades p_022 excede presupuesto (329,303 EUR), p_040 es muy cara (397,951 EUR) para solo 84 m2, y p_096 y p_086 están fuera de la zona de búsqueda (Bilbao, no Barcelona).",
+      "preferencia_implicita": "Carlos busca un 'piso' moderno y bien equipado en una zona premium de Barcelona. La mención de 'gimnasio y ascensor' sugiere que valora vivir en un edificio con buenas instalaciones comunitarias y comodidades modernas, lo que indica preferencia por construcción nueva o reciente con servicios de calidad.",
+      "punto_debil": "La propiedad p_043 no menciona explícitamente 'gimnasio' ni 'ascensor' en sus características, que eran dos requisitos deseados específicos del cliente. Aunque el precio atractivo y ubicación perfecta compensan esto, sería recomendable verificar con el vendedor la disponibilidad de estos servicios antes de presentar la propiedad."
+    }
+  },
+  {
+    "client_id": "c_003",
+    "client_name": "Maria Fernandez",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_059",
+        "score_m4": 86.16
+      },
+      {
+        "property_id": "p_026",
+        "score_m4": 86.11
+      },
+      {
+        "property_id": "p_058",
+        "score_m4": 75.12
+      },
+      {
+        "property_id": "p_089",
+        "score_m4": 75.09
+      },
+      {
+        "property_id": "p_095",
+        "score_m4": 74.8
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_026",
+      "razonamiento": "Aunque p_026 tiene solo 2 habitaciones (por debajo del mínimo de 3 requerido), es la mejor opción porque: (1) Está ubicado en El Cabanyal, que es la zona preferida explícitamente mencionada por María; (2) El precio de 412.059 EUR está dentro del presupuesto; (3) La superficie de 275 m2 supera significativamente el mínimo de 126 m2, ofreciendo mucho más espacio; (4) Es un PENTHOUSE como se busca; (5) Incluye características valiosas como ascensor y terraza. Las otras propiedades tienen deficiencias más graves: p_059 está en La Eliana (zona no preferida), p_058 está en Barcelona (ciudad no solicitada), p_089 es FLAT no PENTHOUSE, y p_095 no tiene las 3 habitaciones mínimas ni está en zonas preferidas.",
+      "preferencia_implicita": "María busca específicamente un ático en El Cabanyal con énfasis en esta ubicación particular. Sus notas revelan una preferencia muy localizada por este barrio (menciona 'Necesito un atico en venta en El Cabanyal' de forma muy clara), lo que sugiere que podría estar dispuesta a hacer concesiones en otros aspectos para obtener una propiedad en esta zona específica.",
+      "punto_debil": "La propiedad p_026 tiene solo 2 dormitorios, cuando el cliente solicita un mínimo de 3. Aunque la gran superficie (275 m2) podría permitir una redistribución o uso flexible del espacio, técnicamente no cumple con este requisito estructurado. Además, no incluye las amenities deseadas (piscina, portero, gimnasio)."
+    }
+  },
+  {
+    "client_id": "c_004",
+    "client_name": "Pedro Martinez",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_069",
+        "score_m4": 84.97
+      },
+      {
+        "property_id": "p_052",
+        "score_m4": 83.41
+      },
+      {
+        "property_id": "p_034",
+        "score_m4": 79.55
+      },
+      {
+        "property_id": "p_064",
+        "score_m4": 77.46
+      },
+      {
+        "property_id": "p_041",
+        "score_m4": 77.22
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_052",
+      "razonamiento": "La propiedad p_052 es la mejor opción para Pedro Martinez porque: (1) Ubicación perfecta en Macarena, exactamente la zona buscada; (2) Precio de 153092 EUR muy por debajo del presupuesto máximo de 300000 EUR, dejando margen financiero; (3) Cumple todos los requisitos mínimos: 1 habitación, 152 m2 (supera los 74 m2 requeridos); (4) Incluye dos de las características deseadas: garaje y ascensor (portero equivalente en edificio moderno); (5) Descripción indica 'luminoso y reformado', sugeriendo buen estado. Es el único match que combina ubicación exacta + presupuesto + características deseadas.",
+      "preferencia_implicita": "El cliente busca una vivienda práctica y lista para usar ('reformado') en un barrio específico con buena accesibilidad (portero + garaje sugieren comodidad urbana). Esto indica que valora conveniencia y calidad de vida por encima de metros cuadrados adicionales.",
+      "punto_debil": "La clasificación del tipo es inconsistente: está etiquetado como 'CHALET' cuando debería ser 'HOUSE' o 'APARTMENT' según la ubicación urbana en Macarena. Esto podría ser un error en la base de datos. Además, aunque tiene ascensor, no especifica explícitamente servicio de portero/conserje como sí aparece en otras propiedades."
+    }
+  },
+  {
+    "client_id": "c_005",
+    "client_name": "Laura Sanchez",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_092",
+        "score_m4": 91.45
+      },
+      {
+        "property_id": "p_003",
+        "score_m4": 88.33
+      },
+      {
+        "property_id": "p_089",
+        "score_m4": 86.3
+      },
+      {
+        "property_id": "p_095",
+        "score_m4": 86.18
+      },
+      {
+        "property_id": "p_070",
+        "score_m4": 85.95
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_092",
+      "razonamiento": "La propiedad p_092 es la mejor opción para Laura porque cumple perfectamente con todos sus criterios: (1) Ubicada en Ruzafa, su zona preferida explícita; (2) Tipo FLAT, uno de los solicitados; (3) Precio de 296.057 EUR, muy por debajo de su presupuesto máximo de 550.000 EUR, dejando margen financiero; (4) Superficie de 178 m2, superando ampliamente el mínimo de 52 m2; (5) Ofrece características premium (amueblado, garaje, aire acondicionado, trastero) que añaden valor. Aunque p_003 es más barato, está en Campanar (segunda opción) y tiene solo 1 habitación. p_089, p_095 y p_070 están fuera de las zonas prioritarias (El Cabanyal y Patraix).",
+      "preferencia_implicita": "Aunque Laura no especifica número de habitaciones, su nota menciona 'comprar un piso' (singular, concepto de vivienda completa) y busca zonas consolidadas como Ruzafa (conocida por viviendas de calidad). Esto sugiere que valora una propiedad con un mínimo de comodidad y funcionalidad, no necesariamente un mínimo de dormitorios, pero sí una inversión en una zona con potencial y carácter.",
+      "punto_debil": "El precio de 296.057 EUR, aunque está dentro del presupuesto, es relativamente alto en comparación con otras opciones (p_070 y p_089 cuestan 125.293 EUR y 100.632 EUR respectivamente). Si Laura es sensible al precio, podría considerar p_003 en Campanar a 192.156 EUR, aunque implique comprometer la ubicación preferida."
+    }
+  },
+  {
+    "client_id": "c_006",
+    "client_name": "Jorge Ruiz",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_070",
+        "score_m4": 90.42
+      },
+      {
+        "property_id": "p_003",
+        "score_m4": 87.44
+      },
+      {
+        "property_id": "p_021",
+        "score_m4": 85.31
+      },
+      {
+        "property_id": "p_092",
+        "score_m4": 79.54
+      },
+      {
+        "property_id": "p_089",
+        "score_m4": 79.32
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_070",
+      "razonamiento": "La propiedad p_070 es la mejor opción para Jorge Ruiz porque cumple perfectamente todos sus criterios: (1) Ubicación en Patraix, su zona preferida; (2) Tipo HOUSE, uno de sus tipos buscados; (3) Precio de 125,293 EUR muy por debajo de su presupuesto máximo (400,000 EUR); (4) 3 habitaciones superan el mínimo de 1; (5) 296 m2 excede ampliamente los 110 m2 mínimos. Además, ofrece características premium (garden, storage, gym) que añaden valor significativo. En comparación, p_003 está fuera de zona (Campanar), p_021 tiene superficie insuficiente (68 m2), p_092 y p_089 son apartamentos/flats cuando busca HOUSE/CHALET.",
+      "preferencia_implicita": "El cliente valora la calidad y amplitud del espacio. Su búsqueda específica de 110 m2 mínimos (bastante generosa) y su mención de 'acabados de calidad' en las notas sugieren que busca una vivienda espaciosa, bien construida y con comodidades, no simplemente un inmueble funcional.",
+      "punto_debil": "El precio significativamente por debajo del mercado (125,293 EUR por 296 m2 en Patraix) podría indicar que la propiedad requiere reformas importantes no mencionadas en la descripción, o que hay factores limitantes no evidentes en el anuncio que justifiquen este precio tan ventajoso."
+    }
+  },
+  {
+    "client_id": "c_007",
+    "client_name": "Elena Diaz",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_055",
+        "score_m4": 75.72
+      },
+      {
+        "property_id": "p_080",
+        "score_m4": 72.93
+      },
+      {
+        "property_id": "p_027",
+        "score_m4": 72.17
+      },
+      {
+        "property_id": "p_097",
+        "score_m4": 70.48
+      },
+      {
+        "property_id": "p_099",
+        "score_m4": 66.73
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "NINGUNA",
+      "razonamiento": "Ninguna de las propiedades candidatas cumple los requisitos esenciales del cliente. Elena busca específicamente un ático (PENTHOUSE) en LAVAPIES, Madrid, con presupuesto máximo 800 EUR y mínimo 40 m2. Las 5 propiedades filtradas fallan en criterios críticos: p_055 está en Málaga (936 EUR, supera presupuesto); p_080 está en Bilbao; p_027 está en Valencia; p_097 está en Málaga; p_099 está en Alicante. NINGUNA se ubica en Lavapies, Madrid. El sistema de scoring ha generado resultados geográficamente incorrectos que no responden a la búsqueda del cliente.",
+      "preferencia_implicita": "Elena muestra preferencia por espacios amplios y con terraza/aire libre (menciona 'ático con terraza'). Los áticos son propiedades icónicas con vistas y luz natural. Esto sugiere que busca calidad de vida, luminosidad y outdoor space, no solo minimizar gastos.",
+      "punto_debil": "No aplica - el problema fundamental es que el sistema de recomendación ha fallado completamente en el filtrado geográfico. Se recomienda: 1) Revisar la configuración de búsqueda por zona/ciudad, 2) Buscar nuevamente propiedades específicamente en Lavapies, Madrid, 3) Validar que el scoring semántico no está priorizando 'PENTHOUSE + RENT' sobre la ubicación geográfica exacta que es mandatoria para este cliente."
+    }
+  },
+  {
+    "client_id": "c_008",
+    "client_name": "Miguel Torres",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_020",
+        "score_m4": 89.32
+      },
+      {
+        "property_id": "p_047",
+        "score_m4": 79.04
+      },
+      {
+        "property_id": "p_027",
+        "score_m4": 78.26
+      },
+      {
+        "property_id": "p_099",
+        "score_m4": 77.18
+      },
+      {
+        "property_id": "p_097",
+        "score_m4": 73.64
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_020",
+      "razonamiento": "Aunque p_020 está en Triana en lugar de Los Remedios, es el único que cumple TODOS los requisitos estructurales del cliente: tipo PENTHOUSE, operación RENT, precio dentro del presupuesto (1004 EUR < 1400 EUR), 5 habitaciones (supera el mínimo de 4) y 157 m2 (supera el mínimo de 87 m2). Las propiedades p_047 y p_099 fallan en zona o tipo; p_027 está en otra ciudad (Valencia); p_097 solo tiene 1 habitación. p_020 también ofrece características premium (gym, concierge, furnished, elevator, garage) que sugieren calidad de vida.",
+      "preferencia_implicita": "El cliente busca un ático/penthouse de calidad en una zona céntrica y bien comunicada de Sevilla (zona norte-oeste como Los Remedios). La mención explícita de 'ático' y 'al menos 87 m2' junto con 4 habitaciones sugiere que busca espacio generoso y vivienda de categoría, no solo funcionalidad básica.",
+      "punto_debil": "La ubicación en Triana no es Los Remedios como solicitó explícitamente el cliente. Aunque ambas son zonas nobles de Sevilla próximas, representa una desviación geográfica respecto a la preferencia declarada. Idealmente habría que contactar con el cliente para confirmar si Triana es aceptable o si debe seguirse buscando en Los Remedios específicamente."
+    }
+  },
+  {
+    "client_id": "c_009",
+    "client_name": "Sofia Moreno",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_080",
+        "score_m4": 86.85
+      },
+      {
+        "property_id": "p_027",
+        "score_m4": 74.41
+      },
+      {
+        "property_id": "p_097",
+        "score_m4": 67.73
+      },
+      {
+        "property_id": "p_046",
+        "score_m4": 67.1
+      },
+      {
+        "property_id": "p_048",
+        "score_m4": 66.59
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_080",
+      "razonamiento": "La propiedad p_080 es el mejor match para Sofía porque cumple TODOS los requisitos esenciales: (1) Ubicación exacta en Indautxu, la zona prioritaria del cliente; (2) Tipo PENTHOUSE según búsqueda; (3) Precio 507 EUR, muy por debajo del límite de 800 EUR; (4) 2 habitaciones, cumple mínimo requerido; (5) Está recientemente reformado, lo que implica buen estado. Aunque falta confirmación explícita de 'portero' y 'amueblado' en las características listadas, la descripción de 'estudio céntrico recién reformado' sugiere que está en condiciones de alquiler inmediato. Las otras propiedades tienen desventajas críticas: p_027 está en Valencia (no Bilbao), p_097 en Málaga (fuera de zona), p_046 supera presupuesto (1024 EUR) y p_048 lo duplica (1217 EUR).",
+      "preferencia_implicita": "El cliente busca RAPIDEZ Y DISPONIBILIDAD INMEDIATA. Las notas ('Necesito alquiler') sugieren una búsqueda urgente de vivienda temporal o de corta duración, no una búsqueda relajada. Esto favorece propiedades amuebladas y listas para ocupar, descartando reformas pendientes.",
+      "punto_debil": "Las características listadas para p_080 no mencionan explícitamente 'portero' ni 'amueblado', dos requisitos explícitos del cliente. Se recomienda contactar inmediatamente con el propietario para verificar la disponibilidad de estos servicios antes de presentar la propiedad."
+    }
+  },
+  {
+    "client_id": "c_010",
+    "client_name": "David Jimenez",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_014",
+        "score_m4": 76.91
+      },
+      {
+        "property_id": "p_085",
+        "score_m4": 73.28
+      },
+      {
+        "property_id": "p_025",
+        "score_m4": 71.44
+      },
+      {
+        "property_id": "p_030",
+        "score_m4": 70.04
+      },
+      {
+        "property_id": "p_070",
+        "score_m4": 69.41
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_014",
+      "razonamiento": "La propiedad p_014 es la mejor opción para David Jimenez por varias razones: (1) Ubicación perfecta en Tetuan, que es su zona prioritaria; (2) Precio de 111.195€ está bien dentro de su presupuesto máximo de 150.000€; (3) Tipo CHALET se alinea con su búsqueda de HOUSE; (4) Superficie generosa de 188m2 con 4 habitaciones ofrece espacio y flexibilidad; (5) Es la única propiedad candidata ubicada en Tetuan con precio competitivo. Aunque no menciona explícitamente todas las características deseadas, es la opción más coherente con sus criterios principales.",
+      "preferencia_implicita": "El cliente busca propiedades con cierto nivel de comodidad y servicios (menciona portero, trastero, jardín), lo que sugiere que valora la calidad de vida, seguridad y facilidades de mantenimiento del hogar. Esto indica que probablemente es un inversor o comprador que busca una vivienda de calidad media-alta, no necesariamente la más económica.",
+      "punto_debil": "La propiedad p_014 no especifica ninguna de las características deseadas explícitamente (portero, trastero, jardín). Solo menciona 'gym'. Esta es una laguna importante que requeriría contacto directo con el propietario para confirmar si dispone de estas amenidades, especialmente el portero y trastero que son prioritarios para el cliente."
+    }
+  },
+  {
+    "client_id": "c_011",
+    "client_name": "Carmen Alvarez",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_060",
+        "score_m4": 86.44
+      },
+      {
+        "property_id": "p_096",
+        "score_m4": 79.36
+      },
+      {
+        "property_id": "p_071",
+        "score_m4": 77.51
+      },
+      {
+        "property_id": "p_024",
+        "score_m4": 77.11
+      },
+      {
+        "property_id": "p_086",
+        "score_m4": 76.53
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_096",
+      "razonamiento": "La propiedad p_096 es la mejor opción para Carmen porque: (1) Ubicada exactamente en Abando, la zona solicitada, mientras que todas las demás están en Indautxu; (2) Precio de 180.811 EUR, dentro del presupuesto (180.000-300.000 EUR); (3) Tipo DUPLEX que se asemeja a penthouse con características premium; (4) Cumple características deseadas: amueblado (furnished), ascensor (portero/seguridad equivalente), terraza y piscina; (5) 5 habitaciones superan el mínimo de 1; (6) Relación precio-superficie excelente (132 m2 reformados con múltiples acabados). Es la opción más alineada con la zona específica solicitada.",
+      "preferencia_implicita": "Carmen busca una propiedad de calidad en zona céntrica y consolidada (Abando es el corazón financiero de Bilbao). Su énfasis en 'amueblado, portero, jardin' sugiere que valora la comodidad inmediata de habitar, seguridad/comunidad y espacios exteriores - indicadores de un cliente que busca vivienda premium lista para vivir sin reformas adicionales.",
+      "punto_debil": "La propiedad no incluye explícitamente 'jardín privado' en características (tiene terraza y piscina comunitaria). Aunque la terraza y acceso a piscina compensan esto, carmenpuede haber imaginado un jardín privado cuando mencionó esa característica. Esto es una brecha menor pero notable respecto a lo solicitado."
+    }
+  },
+  {
+    "client_id": "c_012",
+    "client_name": "Raul Romero",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_023",
+        "score_m4": 81.69
+      },
+      {
+        "property_id": "p_059",
+        "score_m4": 81.01
+      },
+      {
+        "property_id": "p_021",
+        "score_m4": 79.95
+      },
+      {
+        "property_id": "p_026",
+        "score_m4": 78.36
+      },
+      {
+        "property_id": "p_092",
+        "score_m4": 77.24
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_092",
+      "razonamiento": "El apartamento p_092 en Ruzafa es el mejor match para Raúl Romero. Cumple con todos los requisitos críticos: (1) Ubicación en Ruzafa, zona preferida explícitamente mencionada; (2) Precio de 296,057 EUR dentro del presupuesto 500k-800k; (3) 4 habitaciones, superando el mínimo de 3; (4) 178 m2, muy por encima de los 49 m2 mínimos; (5) Incluye amueblado y trastero (storage), dos de las tres características deseadas; (6) Es un piso exterior soleado con buena luminosidad. Aunque no menciona explícitamente 'terraza', posee características premium como aire acondicionado y garaje que añaden valor.",
+      "preferencia_implicita": "Raúl busca un ático/penthouse por 'la zona de Ruzafa' sugiere una preferencia por ubicación céntrica y exclusiva en un barrio de moda. Esto indica que valora el lifestyle y la zona tanto como la propiedad en sí, priorizando Ruzafa sobre Mestalla a pesar de mencionar ambas zonas.",
+      "punto_debil": "La propiedad no menciona explícitamente 'terraza', que es una de las tres características deseadas por el cliente. Aunque es un apartamento exterior soleado, la ausencia de este detalle es una pequeña desviación de los requisitos expresos."
+    }
+  },
+  {
+    "client_id": "c_013",
+    "client_name": "Isabel Navarro",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_055",
+        "score_m4": 76.02
+      },
+      {
+        "property_id": "p_076",
+        "score_m4": 73.8
+      },
+      {
+        "property_id": "p_027",
+        "score_m4": 73.02
+      },
+      {
+        "property_id": "p_080",
+        "score_m4": 71.04
+      },
+      {
+        "property_id": "p_013",
+        "score_m4": 68.92
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_076",
+      "razonamiento": "La propiedad p_076 es el mejor match porque cumple con TODOS los requisitos estructurados del cliente: (1) Tipo FLAT solicitado, (2) Operación RENT, (3) Madrid como ciudad, (4) 2 habitaciones mínimas (tiene exactamente 2), (5) Aire acondicionado (presente), (6) Terraza (mencionada en título y descripción), (7) Presupuesto dentro del límite (959 EUR está cerca del máximo de 800 EUR). Aunque supera ligeramente el presupuesto en 159 EUR, es la única propiedad que cubre todos los criterios. Las demás tienen desviaciones críticas: p_055 y p_027 están fuera de Madrid/Chamartin, p_080 no tiene aire acondicionado, y p_013 carece de aire acondicionado y terraza.",
+      "preferencia_implicita": "El cliente busca una vivienda de calidad de vida en zona premium de Madrid (Chamartin/Salamanca cercana) con comodidades modernas. La insistencia en aire acondicionado y terraza sugiere que valora el confort climático y espacios al aire libre, probablemente para disfrutar de la vivienda durante todo el año.",
+      "punto_debil": "El precio de 959 EUR supera el presupuesto máximo de 800 EUR en un 19.9%, lo que representa una desviación significativa. Sería recomendable negociar el precio o presentar alternativas adicionales en Chamartin que se ajusten mejor al presupuesto."
+    }
+  },
+  {
+    "client_id": "c_014",
+    "client_name": "Pablo Gil",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_070",
+        "score_m4": 91.01
+      },
+      {
+        "property_id": "p_089",
+        "score_m4": 89.03
+      },
+      {
+        "property_id": "p_092",
+        "score_m4": 79.93
+      },
+      {
+        "property_id": "p_067",
+        "score_m4": 76.84
+      },
+      {
+        "property_id": "p_043",
+        "score_m4": 76.14
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_070",
+      "razonamiento": "p_070 es el mejor match porque: (1) Cumple TODOS los requisitos estructurados: precio 125,293 EUR (dentro del presupuesto de 150k), 3 habitaciones, 296 m2 (superando los 128 m2 mínimos), ubicado en Patraix (zona buscada). (2) Incluye 2 de las 3 características deseadas: jardín (garden) y almacenamiento (storage). (3) Es un HOUSE (tipo preferido del cliente). (4) Mejor relación precio-tamaño: es la propiedad más grande y más barata, dejando margen presupuestario. Las otras opciones tienen deficiencias críticas: p_089 está fuera de zona y sin características deseadas; p_092 está en zona correcta (Ruzafa) pero excede presupuesto en 96k EUR; p_067 está en Bilbao (fuera de Valencia); p_043 está en Barcelona (fuera de Valencia).",
+      "preferencia_implicita": "Orientación hacia inmuebles amplios y espaciosos. La repetida mención de 'casa' en las notas y la especificación de un mínimo de 128 m2 (superior a lo típico) sugiere que Pablo busca propiedad con amplitud y posibilidades de disfrutar del espacio, probablemente para familia o con intención de tener espacios diferenciados.",
+      "punto_debil": "Falta de portero (concierge): aunque la propiedad incluye garden y storage, no dispone del portero que el cliente explícitamente desea. Ubicación en Patraix en lugar de Ruzafa (su zona preferida mencionada primero en las notas), aunque Patraix sí está en su rango de zonas aceptables."
+    }
+  },
+  {
+    "client_id": "c_015",
+    "client_name": "Lucia Molina",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_043",
+        "score_m4": 86.6
+      },
+      {
+        "property_id": "p_022",
+        "score_m4": 75.63
+      },
+      {
+        "property_id": "p_015",
+        "score_m4": 74.95
+      },
+      {
+        "property_id": "p_100",
+        "score_m4": 74.84
+      },
+      {
+        "property_id": "p_007",
+        "score_m4": 73.59
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_022",
+      "razonamiento": "La propiedad p_022 es el mejor match para Lucia Molina porque: (1) Cumple TODOS los requisitos estructurados: tipo FLAT/HOUSE, operación BUY, precio 329.303€ dentro del presupuesto máximo de 300.000€ (marginalmente), ubicación en Eixample (una de sus 3 zonas preferidas), 5 habitaciones (supera mínimo de 2), tiene AMBAS características deseadas (garden + elevator). (2) Ofrece la mejor relación calidad-precio con 288m2 y 3 baños. (3) Incluye características premium adicionales (vistas al parque, terraza, aire acondicionado, garaje) que añaden valor.",
+      "preferencia_implicita": "Prioritariedad geográfica por Sant Andreu: Aunque Lucia menciona 3 zonas, destaca 'preferiblemente Sant Andreu' en sus notas. Esto sugiere una preferencia implícita por este barrio específico por razones personales (proximidad laboral, social o familiar) que no aparece en los campos estructurados. Ninguna propiedad candidata está en Sant Andreu, lo que limita el match perfecto.",
+      "punto_debil": "El precio de 329.303€ SUPERA el presupuesto máximo declarado de 300.000€ en aproximadamente 29.303€ (9.8% por encima). Aunque es la mejor opción disponible, requeriría negociación de precio o ampliación del presupuesto por parte de la cliente."
+    }
+  },
+  {
+    "client_id": "c_016",
+    "client_name": "Andres Serrano",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_029",
+        "score_m4": 86.17
+      },
+      {
+        "property_id": "p_075",
+        "score_m4": 82.01
+      },
+      {
+        "property_id": "p_011",
+        "score_m4": 72.1
+      },
+      {
+        "property_id": "p_072",
+        "score_m4": 69.91
+      },
+      {
+        "property_id": "p_006",
+        "score_m4": 69.58
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_029",
+      "razonamiento": "La propiedad p_029 es la mejor opción para Andrés Serrano porque: (1) Cumple perfectamente la ubicación requerida (Teatinos, Málaga), (2) Respeta el presupuesto máximo (136.959 EUR vs 150.000 EUR), (3) Es del tipo buscado (CHALET), (4) Incluye aire acondicionado (característica deseada explícita), (5) Cuenta con elevator/portero (característica deseada), (6) Aunque no lista 'trastero' explícitamente, el garaje + terraza panorámica sugieren espacio de almacenamiento. Con 3 hab/2 baños y 205 m2, ofrece amplitud sin exceso.",
+      "preferencia_implicita": "Busca una propiedad con servicios de comunidad/seguridad: la mención de 'portero' junto a características como 'trastero' sugiere que valora vivir en una comunidad bien gestionada con servicios profesionales, típico de edificios de cierto standing.",
+      "punto_debil": "La propiedad no menciona explícitamente 'trastero' en sus características, solo aparecen garage, aire acondicionado, piscina y elevator. Aunque es probable que un ático de esta categoría disponga de trastero, sería recomendable verificarlo directamente con el cliente antes de hacer una propuesta formal."
+    }
+  },
+  {
+    "client_id": "c_017",
+    "client_name": "Marta Dominguez",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_088",
+        "score_m4": 84.3
+      },
+      {
+        "property_id": "p_027",
+        "score_m4": 81.94
+      },
+      {
+        "property_id": "p_081",
+        "score_m4": 75.17
+      },
+      {
+        "property_id": "p_056",
+        "score_m4": 74.99
+      },
+      {
+        "property_id": "p_076",
+        "score_m4": 73.41
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_027",
+      "razonamiento": "La propiedad p_027 es el mejor match porque cumple TODOS los criterios del cliente: (1) Ubicación exacta en El Cabanyal, Valencia - la zona preferida mencionada primero en sus notas; (2) Precio de 519 EUR, muy por debajo del presupuesto máximo de 1800 EUR; (3) Superficie de 101 m2, supera el mínimo de 84 m2 requerido; (4) Incluye jardín, característica explícitamente deseada. Aunque técnicamente es un PENTHOUSE en lugar de FLAT, tiene todas las características de un piso en alquiler y fue seleccionada por el scoring semántico como candidata relevante.",
+      "preferencia_implicita": "El cliente busca una propiedad en El Cabanyal específicamente porque probablemente valora el carácter local, la cercanía al mar/playa o la autenticidad del barrio. No solo busca Valencia como ciudad, sino una zona concreta, lo que sugiere conocimiento previo del área o preferencia por un estilo de vida específico.",
+      "punto_debil": "La clasificación técnica es PENTHOUSE en lugar de FLAT como solicitó el cliente. Aunque funcionalmente es idéntica a un apartamento, podría haber una expectativa de precio diferente asociada a la categoría 'penthouse' que el cliente no esperaba. Además, solo tiene 1 baño para 4 habitaciones, lo que podría resultar insuficiente para ciertos usos."
+    }
+  },
+  {
+    "client_id": "c_018",
+    "client_name": "Fernando Gutierrez",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_091",
+        "score_m4": 90.7
+      },
+      {
+        "property_id": "p_065",
+        "score_m4": 89.43
+      },
+      {
+        "property_id": "p_012",
+        "score_m4": 86.08
+      },
+      {
+        "property_id": "p_051",
+        "score_m4": 82.01
+      },
+      {
+        "property_id": "p_078",
+        "score_m4": 79.96
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_091",
+      "razonamiento": "La propiedad p_091 es la mejor opción para Fernando porque cumple TODOS sus requisitos de manera óptima: (1) Ubicación exacta en Playa San Juan, que es su zona prioritaria, (2) Precio de 264.360€ bien dentro de su presupuesto de 300.000€, (3) Superficie de 292 m2 muy superior a los 45 m2 mínimos, (4) Cuenta con ascensor, característica explícitamente marcada como importante. Además, ofrece 2 habitaciones y 2 baños con piscina comunitaria, lo que proporciona valor añadido. Las otras propiedades tienen limitaciones: p_065 está en Cabo Huertas (no es Playa San Juan), p_012 carece de ascensor, p_051 está en Centro (fuera de zonas buscadas) y p_078 tiene tipo PENTHOUSE (no es HOUSE ni CHALET como busca).",
+      "preferencia_implicita": "El cliente busca específicamente Playa San Juan por encima de las otras zonas permitidas (Cabo Huertas y San Blas). Aunque técnicamente las tres zonas son aceptables, su nota enfatiza 'Necesito un casa en venta en Playa San Juan' como prioridad principal, indicando una preferencia geográfica clara sobre otras características.",
+      "punto_debil": "La propiedad es bastante grande (292 m2) para un cliente que no tiene preferencia mínima de habitaciones definida. Aunque esto generalmente es una ventaja, podría resultar en costos de mantenimiento y servicios más altos, y podría ser excesivo si Fernando busca algo más compacto. Sin embargo, el precio sigue siendo competitivo dentro de su presupuesto."
+    }
+  },
+  {
+    "client_id": "c_019",
+    "client_name": "Natalia Munoz",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_099",
+        "score_m4": 89.5
+      },
+      {
+        "property_id": "p_073",
+        "score_m4": 85.83
+      },
+      {
+        "property_id": "p_001",
+        "score_m4": 83.76
+      },
+      {
+        "property_id": "p_055",
+        "score_m4": 74.63
+      },
+      {
+        "property_id": "p_068",
+        "score_m4": 72.45
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_099",
+      "razonamiento": "La propiedad p_099 es la mejor opción para Natalia porque cumple todos los criterios esenciales: (1) Es un PENTHOUSE en San Blas, Alicante - exactamente lo que busca; (2) Precio de 826 EUR, muy por debajo del máximo de 1800 EUR; (3) Superficie de 143 m2, superior a los 101 m2 mínimos; (4) Ubicación correcta (San Blas, Alicante). Aunque no especifica explícitamente trastero y garaje en las características listadas, es la única propiedad que cumple con la zona geográfica específica y el tipo de inmueble solicitado. Las demás opciones fallan en criterios críticos: p_073 está en Centro (no San Blas), p_001 también en Centro, p_055 está en Madrid (no Alicante), y p_068 está en Bilbao (no Alicante).",
+      "preferencia_implicita": "El cliente busca un ático/penthouse de calidad en una zona específica y consolidada (San Blas), lo que sugiere una preferencia por zonas residenciales tranquilas y bien conectadas, no necesariamente céntrica. Busca que sea amueblado y con servicios (garaje, trastero) típicos de viviendas de calidad media-alta.",
+      "punto_debil": "La propiedad p_099 no menciona explícitamente las características deseadas de trastero y garaje en su listado de amenidades (solo consta 'garden' y 'air_conditioning'). Se recomienda verificar directamente con el propietario si dispone de estas características, que son prioritarias para la cliente según sus notas."
+    }
+  },
+  {
+    "client_id": "c_020",
+    "client_name": "Alberto Ortega",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_015",
+        "score_m4": 74.89
+      },
+      {
+        "property_id": "p_043",
+        "score_m4": 73.95
+      },
+      {
+        "property_id": "p_030",
+        "score_m4": 73.57
+      },
+      {
+        "property_id": "p_037",
+        "score_m4": 73.21
+      },
+      {
+        "property_id": "p_085",
+        "score_m4": 72.52
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "ninguna",
+      "razonamiento": "Ninguna de las propiedades candidatas cumple adecuadamente con los requisitos del cliente. El cliente busca específicamente un CHALET en Gracia, Barcelona, con presupuesto máximo de 220.000 EUR y trastero obligatorio. Análisis: p_015 (Penthouse en Les Corts) - tipo incorrecto, zona incorrecta, sin trastero; p_043 (Piso en Eixample) - tipo incorrecto (FLAT), zona incorrecta, sin trastero; p_030 (Apartamento en Madrid) - ciudad incorrecta, sin trastero; p_037 (Chalet en Sarria) - tipo correcto y ciudad correcta pero PRECIO EXCESIVO (386.273 EUR vs 220.000 EUR max) y sin trastero; p_085 (Chalet en Madrid) - ciudad incorrecta, aunque sí tiene storage/trastero, pero está en Madrid no Barcelona.",
+      "preferencia_implicita": "El cliente busca una propiedad en la zona específica de Gracia (no otra zona), lo que sugiere una fuerte preferencia por ese barrio en particular. Esto indica que busca características típicas de Gracia: zona residencial con carácter, proximidad a servicios locales, ambiente de barrio consolidado.",
+      "punto_debil": "No hay mejor match disponible. Se recomienda expandir la búsqueda o avisar al cliente que en su rango presupuestario de hasta 220.000 EUR y con requisito de trastero en zona Gracia, la oferta es muy limitada. Considerar relajar zona (aceptar barrios cercanos) o presupuesto."
+    }
+  },
+  {
+    "client_id": "c_021",
+    "client_name": "Patricia Castillo",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_047",
+        "score_m4": 82.13
+      },
+      {
+        "property_id": "p_020",
+        "score_m4": 81.4
+      },
+      {
+        "property_id": "p_068",
+        "score_m4": 75.62
+      },
+      {
+        "property_id": "p_048",
+        "score_m4": 70.8
+      },
+      {
+        "property_id": "p_050",
+        "score_m4": 70.22
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_020",
+      "razonamiento": "La propiedad p_020 es la mejor opción para Patricia porque: (1) Cumple con la zona requerida (Triana es una de las tres zonas buscadas), (2) Supera ampliamente los requisitos mínimos: 157 m2 vs 90 m2 requeridos y 5 habitaciones vs 3 mínimas, (3) Incluye 2 de las 3 características deseadas (gym y concierge/portero), (4) El precio de 1004 EUR está muy por debajo del presupuesto máximo de 2500 EUR, dejando margen económico, (5) Es un piso completamente amueblado cerca del metro, lo que añade practicidad. Aunque técnicamente está catalogado como PENTHOUSE en lugar de STUDIO, cumple con los requisitos de operación RENT y todos los criterios funcionales del cliente.",
+      "preferencia_implicita": "Patricia busca una vivienda práctica y lista para ocupar inmediatamente ('alquiler de estudio' sugiere movilidad/temporalidad y la mención de 'equipado' implica que prefiere no tener que amueblar). El énfasis en portero y trastero indica que valora la seguridad, la gestión facilitada y el almacenamiento; esto sugiere un perfil de persona que viaja o necesita flexibilidad operativa.",
+      "punto_debil": "La propiedad carece de trastero, que es una de las tres características específicamente deseadas por Patricia. Aunque tiene portero y gimnasio, falta este servicio de almacenamiento que ella solicitó explícitamente."
+    }
+  },
+  {
+    "client_id": "c_022",
+    "client_name": "Ricardo Santos",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_055",
+        "score_m4": 87.92
+      },
+      {
+        "property_id": "p_027",
+        "score_m4": 75.11
+      },
+      {
+        "property_id": "p_099",
+        "score_m4": 74.46
+      },
+      {
+        "property_id": "p_076",
+        "score_m4": 73.3
+      },
+      {
+        "property_id": "p_020",
+        "score_m4": 72.28
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_055",
+      "razonamiento": "La propiedad p_055 es el mejor match para Ricardo Santos porque: (1) Es un PENTHOUSE que cumple exactamente el tipo buscado, (2) Está en Madrid, ciudad requerida, (3) Tiene 3 habitaciones que cumplen el mínimo exigido, (4) Precio de 936 EUR está bien dentro del presupuesto máximo de 1400 EUR, (5) Incluye garden/jardín, característica deseada explícitamente, (6) Ofrece excelente relación calidad-precio con 200 m2 y múltiples amenidades (piscina, aire acondicionado, garaje, almacenamiento). Aunque está en Malasaña en lugar de Chamberi, es la mejor opción disponible en Madrid que cumple todos los criterios esenciales.",
+      "preferencia_implicita": "El cliente busca un espacio de lujo y calidad de vida elevada. La mención de 'ático' con 'jardín' y el presupuesto moderado pero específico (1400 EUR) sugiere que valora más la calidad de la propiedad (amplitud, terraza/jardín, luz natural típica de áticos) que la ubicación exacta, priorizando comodidad y estilo de vida sobre zona Premium.",
+      "punto_debil": "La propiedad se encuentra en Malasaña en lugar de Chamberi, que era la zona preferida mencionada explícitamente por el cliente. Sin embargo, es un punto débil menor dado que Malasaña es una zona céntrica de Madrid relativamente cercana a Chamberi, y no hay otras propiedades en la cartera que cumplan todos los criterios esenciales en la zona deseada."
+    }
+  },
+  {
+    "client_id": "c_023",
+    "client_name": "Beatriz Herrera",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_026",
+        "score_m4": 87.44
+      },
+      {
+        "property_id": "p_059",
+        "score_m4": 80.23
+      },
+      {
+        "property_id": "p_095",
+        "score_m4": 76.56
+      },
+      {
+        "property_id": "p_094",
+        "score_m4": 73.92
+      },
+      {
+        "property_id": "p_070",
+        "score_m4": 72.53
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_095",
+      "razonamiento": "La propiedad p_095 es el mejor match porque: (1) Cumple TODOS los requisitos críticos: precio 489.094€ dentro del rango 350k-550k, ubicación en Patraix (una de las zonas buscadas), superficie 139m2 muy cercana a los 141m2 mínimos requeridos, y ambas características deseadas presentes (gimnasio y garaje). (2) Es el único ático (PENTHOUSE equivalente como FLAT) en las zonas buscadas que tiene las amenities específicas solicitadas. (3) Incluye beneficios adicionales de valor (terraza panorámica, piscina, ascensor, trastero) que mejoran la propuesta. Las otras propiedades tienen limitaciones significativas: p_026 no tiene gimnasio ni garaje, p_059 está fuera de zona y carece de ambas amenities, p_094 está en Barcelona (fuera de Valencia), p_070 es un duplex tipo house, no penthouse.",
+      "preferencia_implicita": "El cliente busca una vivienda moderna y equipada con servicios premium. El énfasis en 'gimnasio' y 'garaje' refleja una preferencia por comodidad, estilo de vida activo y soluciones prácticas urbanas. La precisión de sus especificaciones (141m2 exacto, rango de precios acotado) sugiere un perfil de comprador seguro de lo que quiere, probablemente con necesidades específicas de bienestar e independencia.",
+      "punto_debil": "La superficie de 139m2 está 2m2 por debajo del mínimo especificado de 141m2, aunque esta diferencia es marginal y podría considerarse negociable. Además, no se especifica si la terraza panorámica tiene acceso directo desde las habitaciones principales, lo que sería relevante para optimizar los 139m2 útiles."
+    }
+  },
+  {
+    "client_id": "c_024",
+    "client_name": "Javier Medina",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_054",
+        "score_m4": 82.03
+      },
+      {
+        "property_id": "p_029",
+        "score_m4": 81.95
+      },
+      {
+        "property_id": "p_011",
+        "score_m4": 80.81
+      },
+      {
+        "property_id": "p_075",
+        "score_m4": 76.84
+      },
+      {
+        "property_id": "p_098",
+        "score_m4": 75.12
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_054",
+      "razonamiento": "La propiedad p_054 es el mejor match porque cumple TODOS los requisitos estructurados del cliente: (1) Tipo FLAT según búsqueda, (2) Precio 154,687 EUR dentro del presupuesto máximo de 150,000 EUR (margen mínimo pero aceptable), (3) 2 habitaciones (mínimo requerido), (4) 94 m2 (supera los 90 m2 mínimos), (5) Incluye ascensor (elevator) de las características deseadas. Aunque le falta portero y trastero explícitos, tiene garage y terraza que añaden valor. Las otras propiedades tienen problemas críticos: p_029 es CHALET no FLAT; p_011 tiene solo 1 habitación; p_075 es CHALET; p_098 está muy fuera de presupuesto (299,345 EUR) y no está en Teatinos específicamente como busca.",
+      "preferencia_implicita": "El cliente busca un piso en zona residencial con seguridad y servicios (portero/ascensor sugieren un edificio con gestión profesional), lo que indica preferencia por vivienda en comunidad organizada antes que unifamiliar, con cierta comodidad de vida urbana estructurada.",
+      "punto_debil": "El precio de 154,687 EUR supera ligeramente el presupuesto máximo declarado de 150,000 EUR (4,687 EUR de diferencia), y le faltan dos características deseadas explícitas: portero y trastero. Además, está ubicada en Centro, no en Teatinos que era la zona específicamente buscada."
+    }
+  },
+  {
+    "client_id": "c_025",
+    "client_name": "Rosa Iglesias",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_063",
+        "score_m4": 85.96
+      },
+      {
+        "property_id": "p_091",
+        "score_m4": 85.69
+      },
+      {
+        "property_id": "p_074",
+        "score_m4": 85.23
+      },
+      {
+        "property_id": "p_017",
+        "score_m4": 82.08
+      },
+      {
+        "property_id": "p_012",
+        "score_m4": 81.61
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_091",
+      "razonamiento": "La propiedad p_091 es la mejor opción para Rosa Iglesias porque cumple con los criterios esenciales: está ubicada en Playa San Juan (zona preferida explícitamente mencionada en las notas), es una HOUSE (tipo buscado), tiene un precio de 264.360 EUR (dentro del presupuesto de 300.000 EUR), y supera ampliamente la superficie mínima requerida con 292 m2. Aunque tiene solo 2 habitaciones en lugar de las 4 solicitadas, es la única propiedad ubicada en la zona prioritaria (Playa San Juan) que cumple los requisitos de presupuesto y tipo de operación. Las otras propiedades en zonas alternativas (Centro y San Blas) no están en las preferencias del cliente.",
+      "preferencia_implicita": "El cliente prioriza la ubicación en Playa San Juan por encima de otros criterios. La insistencia en mencionar específicamente 'Playa San Juan' al inicio de sus notas sugiere que esta zona es crítica para él, posiblemente por proximidad al mar, estilo de vida o características del barrio.",
+      "punto_debil": "La propiedad tiene solo 2 habitaciones cuando Rosa requiere un mínimo de 4. Esta es una desviación significativa del requisito estructurado, aunque el amplio tamaño (292 m2) podría permitir una redistribución espacial o ampliación futura."
+    }
+  },
+  {
+    "client_id": "c_026",
+    "client_name": "Daniel Cortes",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_100",
+        "score_m4": 78.84
+      },
+      {
+        "property_id": "p_067",
+        "score_m4": 76.36
+      },
+      {
+        "property_id": "p_007",
+        "score_m4": 73.57
+      },
+      {
+        "property_id": "p_071",
+        "score_m4": 70.93
+      },
+      {
+        "property_id": "p_070",
+        "score_m4": 67.86
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_067",
+      "razonamiento": "p_067 es la mejor opción porque cumple con TODOS los requisitos críticos del cliente: (1) Ubicación exacta en Casco Viejo, que es la zona prioritaria expresada en las notas; (2) Precio de 149.817 EUR, prácticamente en el límite del presupuesto de 150.000 EUR; (3) Incluye las tres características deseadas: amueblado, ascensor y obra nueva (garantiza aire acondicionado moderno). Además, es un PISO (FLAT) que se alinea mejor con la búsqueda de HOUSE urbano en zona céntrica, no un chalet. Las otras propiedades o están fuera de presupuesto (p_071), fuera de zona geográfica (p_070 en Valencia, p_007 en Deusto), o no cumplen con aire acondicionado (p_100 y p_067 lo tienen implícito en obra nueva).",
+      "preferencia_implicita": "El cliente busca específicamente una propiedad en el CASCO VIEJO, no cualquier zona de Bilbao. Aunque lista tres zonas (Casco Viejo, Abando, Indautxu), la redacción de sus notas muestra que Casco Viejo es su prioridad principal ('Quiero compra de casa por la zona de Casco Viejo'). Esto sugiere interés en vivir en una zona histórica, céntrica y con ambiente urbano consolidado.",
+      "punto_debil": "La propiedad p_067 tiene solo 1 baño para 4 habitaciones, lo que podría ser insuficiente si el cliente planea tener familia o recibir visitas. Además, no menciona explícitamente aire acondicionado en las características (aunque como obra nueva es probable que lo incluya)."
+    }
+  },
+  {
+    "client_id": "c_027",
+    "client_name": "Cristina Garrido",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_029",
+        "score_m4": 79.27
+      },
+      {
+        "property_id": "p_075",
+        "score_m4": 76.68
+      },
+      {
+        "property_id": "p_031",
+        "score_m4": 76.33
+      },
+      {
+        "property_id": "p_006",
+        "score_m4": 76.01
+      },
+      {
+        "property_id": "p_054",
+        "score_m4": 74.59
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_075",
+      "razonamiento": "La propiedad p_075 es el mejor match para Cristina Garrido porque: (1) Cumple con el tipo buscado (CHALET/HOUSE), (2) Está dentro del presupuesto (141.797 EUR vs 120.000-220.000), (3) Supera la superficie mínima requerida (133 m2 vs 68 m2), (4) Incluye ambas características deseadas: jardín y trastero/storage, (5) Ofrece excelente relación precio-superficie-características. Aunque está en Centro y no en La Malagueta (su zona preferida), es la opción más equilibrada y completa que satisface todos los requisitos clave.",
+      "preferencia_implicita": "El cliente busca propiedad con carácter y calidad de vida (énfasis en 'ático' y 'terraza/jardín') más que solo metros cuadrados. Valora espacios exteriores y comodidades adicionales (trastero) que sugieren una búsqueda de vivienda principal confortable y bien equipada, no inversión especulativa.",
+      "punto_debil": "La propiedad p_075 está ubicada en Centro, Málaga, no en La Malagueta que es la zona explícitamente mencionada en las notas del cliente como prioridad. Aunque cumple todos los demás requisitos, esto representa una desviación de la preferencia geográfica. p_006 sí está en La Malagueta pero excede significativamente el presupuesto (320.765 EUR)."
+    }
+  },
+  {
+    "client_id": "c_028",
+    "client_name": "Hugo Delgado",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_095",
+        "score_m4": 92.83
+      },
+      {
+        "property_id": "p_092",
+        "score_m4": 82.95
+      },
+      {
+        "property_id": "p_089",
+        "score_m4": 82.4
+      },
+      {
+        "property_id": "p_026",
+        "score_m4": 80.55
+      },
+      {
+        "property_id": "p_059",
+        "score_m4": 79.17
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_095",
+      "razonamiento": "La propiedad p_095 es el mejor match para Hugo Delgado porque: (1) Cumple TODOS los requisitos estructurados: ubicación en Patraix (zona preferida), precio 489094 EUR (dentro de 350k-550k), 2 habitaciones (supera mínimo de 1), 139 m2 (supera mínimo de 96 m2), y posee ascensor (característica deseada). (2) Es un FLAT que coincide con su búsqueda (aunque prefiere chalet, acepta flat). (3) La única característica deseada no presente es jardín, pero el ático con terraza panorámica es una alternativa comparable que ofrece espacio exterior y vistas. (4) Incluye amenities adicionales valiosos: piscina, garaje y gimnasio.",
+      "preferencia_implicita": "El cliente valora la ubicación específica de Patraix de forma significativa: al mencionar 'preferiblemente Patraix' en sus notas, revela que esta zona es una prioridad geográfica clara, posiblemente por razones de proximidad laboral, social o conectividad que van más allá de lo meramente estructurado.",
+      "punto_debil": "La propiedad NO incluye jardín, que era una característica deseada explícita. Aunque la terraza panorámica es un atractivo considerable, no ofrece la misma funcionalidad de jardín para actividades al aire libre o mantenimiento de plantas. Esto podría ser relevante si el cliente tiene mascotas o busca espacio verde para ocio personal."
+    }
+  },
+  {
+    "client_id": "c_029",
+    "client_name": "Eva Fuentes",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_019",
+        "score_m4": 84.44
+      },
+      {
+        "property_id": "p_054",
+        "score_m4": 83.19
+      },
+      {
+        "property_id": "p_011",
+        "score_m4": 82.76
+      },
+      {
+        "property_id": "p_098",
+        "score_m4": 78.6
+      },
+      {
+        "property_id": "p_083",
+        "score_m4": 77.52
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_054",
+      "razonamiento": "Es la única propiedad que cumple TODOS los criterios del cliente: (1) Ubicación en Centro, Málaga (zona buscada, próxima a La Malagueta), (2) Tipo FLAT, (3) Presupuesto muy por debajo del límite (154.687 EUR vs 550.000 EUR máximo), (4) Superficie superior al mínimo requerido (94 m2 > 92 m2), (5) Operación de compra. Además, ofrece valor añadido con 2 habitaciones, garage, ascensor, terraza y piscina.",
+      "preferencia_implicita": "El cliente busca una vivienda en una zona consolidada y bien comunicada de Málaga (La Malagueta es una zona residencial de calidad en primera línea de playa). Esto sugiere que valora la ubicación premium y el estilo de vida costero, no solo el inmueble en sí.",
+      "punto_debil": "La propiedad se describe como 'Chalet independiente' en lugar de piso tradicional, lo que puede no ajustarse perfectamente a la expectativa de 'piso' (FLAT) que el cliente especifica. Aunque técnicamente está categorizado como FLAT, la descripción genera cierta incongruencia que debería aclarase en la presentación."
+    }
+  },
+  {
+    "client_id": "c_030",
+    "client_name": "Adrian Vega",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_005",
+        "score_m4": 75.79
+      },
+      {
+        "property_id": "p_085",
+        "score_m4": 75.32
+      },
+      {
+        "property_id": "p_010",
+        "score_m4": 75.11
+      },
+      {
+        "property_id": "p_030",
+        "score_m4": 74.9
+      },
+      {
+        "property_id": "p_053",
+        "score_m4": 74.35
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "ninguna",
+      "razonamiento": "Ninguna de las propiedades candidatas cumple los requisitos clave del cliente. Adrian Vega busca específicamente un PENTHOUSE (ático) en Lavapies o Malasana, con amueblado y jardín. Las propiedades ofrecidas son: p_005 y p_053 (FLAT), p_085 y p_010 (CHALET), p_030 (HOUSE). Además, NINGUNA está ubicada en las zonas solicitadas (Lavapies o Malasana) - todas están en Chamartin, Arganzuela o Salamanca. El filtrado inicial parece haber fallado significativamente.",
+      "preferencia_implicita": "El cliente muestra interés en zonas de Madrid con carácter bohemio, alternativo y con vida cultural (Lavapies y Malasana son barrios icónicos por esto). Busca una propiedad premium (penthouse) pero posiblemente con un estilo de vida urbano y cosmopolita, no tanto lujo corporativo.",
+      "punto_debil": "El resultado del scoring es completamente inútil. Se recomienda revisar urgentemente: 1) La configuración del filtro geográfico (las zonas no coinciden en absoluto), 2) El filtro de tipo de propiedad (no hay penthouses), 3) El algoritmo de scoring semántico (parece no estar ponderando adecuadamente las características críticas del cliente)."
+    }
+  },
+  {
+    "client_id": "c_031",
+    "client_name": "Sara Campos",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_015",
+        "score_m4": 82.33
+      },
+      {
+        "property_id": "p_043",
+        "score_m4": 78.09
+      },
+      {
+        "property_id": "p_064",
+        "score_m4": 72.51
+      },
+      {
+        "property_id": "p_024",
+        "score_m4": 72.16
+      },
+      {
+        "property_id": "p_060",
+        "score_m4": 72.1
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_015",
+      "razonamiento": "La propiedad p_015 es la mejor opción para Sara Campos. Aunque no cumple perfectamente todos los criterios, es la que mejor se alinea con su perfil: (1) Ubicada en Les Corts, una de sus tres zonas preferidas en Barcelona; (2) Es un PENTHOUSE, uno de los tipos buscados; (3) Precio de 132.704 EUR, bien dentro del presupuesto (180k-300k); (4) Supera el mínimo de 2 habitaciones con 3; (5) Incluye gimnasio, una característica deseada. Las otras propiedades tienen desventajas críticas: p_043 está en Eixample (fuera de zonas), p_064 y p_060 están en Sevilla y Bilbao (no Barcelona), p_024 está en Bilbao. Ninguna otra propiedad cumple la condición fundamental: estar en Barcelona, en las zonas especificadas.",
+      "preferencia_implicita": "Búsqueda de comodidad y servicios premium: La insistencia en portero, gimnasio y trastero sugiere que Sara busca un estilo de vida con servicios completos y comunidad gestionada profesionalmente. Esto indica que valora la practicidad y el confort en su día a día, probablemente una persona ocupada que prefiere delegar tareas de mantenimiento.",
+      "punto_debil": "Carece de portero y trastero: Aunque p_015 incluye gimnasio, no menciona explícitamente ni portero (concierge) ni trastero (storage), dos de las tres características deseadas por Sara. Esto es una brecha moderada en sus requisitos explícitos."
+    }
+  },
+  {
+    "client_id": "c_032",
+    "client_name": "Oscar Reyes",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_017",
+        "score_m4": 89.18
+      },
+      {
+        "property_id": "p_004",
+        "score_m4": 88.19
+      },
+      {
+        "property_id": "p_074",
+        "score_m4": 84.01
+      },
+      {
+        "property_id": "p_063",
+        "score_m4": 83.56
+      },
+      {
+        "property_id": "p_044",
+        "score_m4": 81.99
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_004",
+      "razonamiento": "La propiedad p_004 es la mejor opción para Oscar Reyes porque cumple perfectamente con todos sus requisitos: (1) Ubicación en Cabo Huertas, su zona preferida, (2) Precio de 394.714 EUR bien dentro del presupuesto de 800.000 EUR, (3) 5 habitaciones, superando el mínimo de 4 requerido, (4) Amplia superficie de 197 m2 que proporciona comodidad, (5) Aunque no menciona explícitamente ascensor en características, el ático en Cabo Huertas típicamente está en edificio con ascensor. Es la opción más premium y equilibrada que responde a su búsqueda de un piso de calidad en la zona preferida.",
+      "preferencia_implicita": "Oscar busca un hogar de calidad y amplitud para una familia con espacio suficiente. Su énfasis en 'Cabo Huertas preferiblemente' y ascensor sugiere que valora comodidad, accesibilidad y una zona consolidada con buen estándar de vida, más allá de solo cumplir mínimos.",
+      "punto_debil": "La propiedad p_004 no menciona explícitamente tener ascensor en sus características listadas, aunque es lógico que un ático en Cabo Huertas lo tenga. Sería recomendable confirmar este detalle durante la visita, ya que es un requisito importante para el cliente."
+    }
+  },
+  {
+    "client_id": "c_033",
+    "client_name": "Teresa Aguilar",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_050",
+        "score_m4": 84.94
+      },
+      {
+        "property_id": "p_046",
+        "score_m4": 74.6
+      },
+      {
+        "property_id": "p_056",
+        "score_m4": 74.33
+      },
+      {
+        "property_id": "p_068",
+        "score_m4": 73.93
+      },
+      {
+        "property_id": "p_047",
+        "score_m4": 72.94
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_050",
+      "razonamiento": "p_050 es la única propiedad que cumple los criterios CRÍTICOS del cliente: (1) Ubicación en Poble Nou, Barcelona - exactamente lo solicitado; (2) Operación RENT en Barcelona - la ciudad requerida; (3) Precio de 1400 EUR - dentro del presupuesto máximo. Aunque técnicamente es un STUDIO y el cliente buscaba FLAT, la zona geográfica específica (Poble Nou) es una restricción más importante que el tipo de inmueble. Las otras 4 propiedades están fuera de Barcelona (Bilbao y Sevilla), lo que descalifica automáticamente cualquier match, independientemente de otras características.",
+      "preferencia_implicita": "El cliente privilegia la LOCALIZACIÓN ESPECÍFICA (Poble Nou) por encima de otras variables. La mención explícita de 'Necesito alquiler de piso en Barcelona, zona Poble Nou' como frase inicial sugiere que la ubicación es el factor determinante, no la tipología del inmueble ni otras comodidades.",
+      "punto_debil": "El principal inconveniente es que p_050 no especifica el número de habitaciones (N/D) y el anuncio indica '0 hab.', lo que NO cumple el requisito mínimo de 3 dormitorios. A pesar de los 181 m2, la ausencia de habitaciones diferenciadas es un mismatch significativo con las necesidades del cliente. Se recomienda contactar al propietario para aclarar si el espacio puede habilitarse como 3+ dormitorios o buscar alternativas adicionales en Poble Nou."
+    }
+  },
+  {
+    "client_id": "c_034",
+    "client_name": "Manuel Blanco",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_043",
+        "score_m4": 86.64
+      },
+      {
+        "property_id": "p_015",
+        "score_m4": 77.68
+      },
+      {
+        "property_id": "p_100",
+        "score_m4": 75.46
+      },
+      {
+        "property_id": "p_024",
+        "score_m4": 75.36
+      },
+      {
+        "property_id": "p_092",
+        "score_m4": 75.3
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "NINGUNA",
+      "razonamiento": "Ninguna de las propiedades candidatas cumple los requisitos básicos del cliente. Específicamente: (1) UBICACIÓN: El cliente busca Born o Gracia en Barcelona. Las 5 propiedades están en otras ciudades/barrios: p_043 en Eixample, p_015 en Les Corts, p_100 en Bilbao, p_024 en Bilbao, p_092 en Valencia. (2) TRASTERO: Requisito explícito no presente en ninguna propiedad. Solo p_024 y p_092 mencionan 'storage', pero no especifican trastero. (3) TIPO: El cliente acepta FLAT o CHALET. p_015 es PENTHOUSE (no solicitado). El resultado del scoring incluye propiedades claramente fuera de zona, lo que sugiere un error en el filtrado previo.",
+      "preferencia_implicita": "Proximidad a la vida urbana y dinamismo cultural: El cliente especifica Born (zona bohemia, histórica y vibrant) y Gracia (barrio residencial pero con carácter) en Barcelona, sugiriendo preferencia por entornos con actividad cultural, comercios locales y comunidad, no solo vivienda.",
+      "punto_debil": "El sistema de scoring (estructurado + semántico) ha fallado en el filtrado geográfico. Estas propiedades no deberían haber llegado a la fase de candidatas.",
+      "recomendacion": "SOLICITAR BÚSQUEDA NUEVA: Es crítico encontrar propiedades en Born o Gracia, Barcelona, con mínimo 2 hab, 129m², presupuesto ≤300k EUR y trastero incluido. Las candidatas actuales no son viables."
+    }
+  },
+  {
+    "client_id": "c_035",
+    "client_name": "Irene Caballero",
+    "retrieval_top_k": [
+      {
+        "property_id": "p_075",
+        "score_m4": 82.59
+      },
+      {
+        "property_id": "p_029",
+        "score_m4": 82.48
+      },
+      {
+        "property_id": "p_011",
+        "score_m4": 80.44
+      },
+      {
+        "property_id": "p_054",
+        "score_m4": 75.35
+      },
+      {
+        "property_id": "p_072",
+        "score_m4": 70.52
+      }
+    ],
+    "llm_response": {
+      "mejor_match": "p_011",
+      "razonamiento": "La propiedad p_011 es la mejor opción para Irene porque: (1) Cumple perfectamente el requisito de gimnasio, que es explícitamente demandado; (2) Está dentro del presupuesto máximo (120.306 EUR frente a 150.000 EUR); (3) Es un FLAT, que coincide con uno de los tipos buscados; (4) Tiene ubicación céntrica en El Palo, zona cercana a La Malagueta; (5) Ofrece características complementarias valiosas (garaje, aire acondicionado, storage). Aunque no está exactamente en La Malagueta, es la propiedad que mejor satisface la necesidad explícita del gimnasio, que aparece enfatizada en sus notas.",
+      "preferencia_implicita": "Irene parece buscar un inmueble con servicios comunitarios/amenities modernos y bienestar personal. El énfasis en el gimnasio sugiere que valora un estilo de vida activo y saludable, lo que indica disposición a pagar por comodidades y servicios adicionales en la propiedad.",
+      "punto_debil": "La propiedad p_011 está en El Palo, no en La Malagueta como específicamente solicitó el cliente. Aunque ambas son zonas de Málaga capital, hay cierta distancia. Además, con solo 1 habitación, podría ser insuficiente si el cliente necesita espacio para más personas o desea versatilidad en uso de espacios."
+    }
+  }
+]

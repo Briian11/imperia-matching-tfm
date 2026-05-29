@@ -1,0 +1,15 @@
+[project]
+name = "imperia-matching-tfm"
+version = "0.1.0"
+description = "TFM: sistema explicable de matching inmobiliario basado en Imperia Estate"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+pdf = [
+  "pypdf>=6.0",
+]
+app = [
+  "streamlit>=1.35",
+  "pandas>=2.0",
+]
